@@ -1,0 +1,6 @@
+.vs/
+_git/
+portfolio/
+node_modules/
+.DS_Store
+Thumbs.db
