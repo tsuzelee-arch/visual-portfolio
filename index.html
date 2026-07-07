@@ -968,8 +968,10 @@
       position: fixed;
       inset: 0;
       z-index: 20;
-      display: grid;
-      place-items: center;
+      display: flex;
+      justify-content: center;
+      align-items: flex-start;
+      overflow-y: auto;
       padding: 28px;
       background: rgba(15, 17, 20, 0.78);
       backdrop-filter: blur(14px);
@@ -985,7 +987,9 @@
 
     .lightbox img {
       max-width: min(1180px, 94vw);
-      max-height: 90vh;
+      width: auto;
+      height: auto;
+      margin: auto;
       border-radius: 8px;
       object-fit: contain;
       background: #fff;
@@ -1275,41 +1279,41 @@
           </div>
 
           <div class="hero-board" aria-label="主頁作品牆">
-            <figure class="hero-frame"><img class="hero-card" src="resource/banner/跨平臺banner/1.png"
+            <figure class="hero-frame"><img class="hero-card" src="resource/banner/跨平臺banner/1.jpg"
                 alt="平臺 banner 橫幅" /></figure>
-            <figure class="hero-frame"><img class="hero-card" src="resource/banner/跨平臺banner/2.png"
+            <figure class="hero-frame"><img class="hero-card" src="resource/banner/跨平臺banner/2.jpg"
                 alt="平臺 banner 方形" /></figure>
-            <figure class="hero-frame"><img class="hero-card" src="resource/banner/跨平臺banner/3.png"
+            <figure class="hero-frame"><img class="hero-card" src="resource/banner/跨平臺banner/3.jpg"
                 alt="平臺 banner 直式" /></figure>
-            <figure class="hero-frame"><img class="hero-card" src="resource/banner/跨平臺banner2/1.png"
+            <figure class="hero-frame"><img class="hero-card" src="resource/banner/跨平臺banner2/1.jpg"
                 alt="平臺 banner 橫幅" /></figure>
-            <figure class="hero-frame"><img class="hero-card" src="resource/banner/跨平臺banner2/2.png"
+            <figure class="hero-frame"><img class="hero-card" src="resource/banner/跨平臺banner2/2.jpg"
                 alt="平臺 banner 方形" /></figure>
-            <figure class="hero-frame"><img class="hero-card" src="resource/banner/跨平臺banner2/3.png"
+            <figure class="hero-frame"><img class="hero-card" src="resource/banner/跨平臺banner2/3.jpg"
                 alt="平臺 banner 直式" /></figure>
-            <figure class="hero-frame"><img class="hero-card" src="resource/banner/跨平臺banner3/1.png"
+            <figure class="hero-frame"><img class="hero-card" src="resource/banner/跨平臺banner3/1.jpg"
                 alt="平臺 banner 橫幅" /></figure>
-            <figure class="hero-frame"><img class="hero-card" src="resource/banner/跨平臺banner3/2.png"
+            <figure class="hero-frame"><img class="hero-card" src="resource/banner/跨平臺banner3/2.jpg"
                 alt="平臺 banner 方形" /></figure>
-            <figure class="hero-frame"><img class="hero-card" src="resource/banner/跨平臺banner3/3.png"
+            <figure class="hero-frame"><img class="hero-card" src="resource/banner/跨平臺banner3/3.jpg"
                 alt="平臺 banner 直式" /></figure>
-            <figure class="hero-frame"><img class="hero-card" src="resource/banner/跨平臺banne4/1.png"
+            <figure class="hero-frame"><img class="hero-card" src="resource/banner/跨平臺banner4/1.jpg"
                 alt="平臺 banner 橫幅" /></figure>
-            <figure class="hero-frame"><img class="hero-card" src="resource/banner/跨平臺banne4/2.png"
+            <figure class="hero-frame"><img class="hero-card" src="resource/banner/跨平臺banner4/2.jpg"
                 alt="平臺 banner 方形" /></figure>
-            <figure class="hero-frame"><img class="hero-card" src="resource/banner/跨平臺banne4/3.png"
+            <figure class="hero-frame"><img class="hero-card" src="resource/banner/跨平臺banner4/3.jpg"
                 alt="平臺 banner 直式" /></figure>
-            <figure class="hero-frame"><img class="hero-card" src="resource/banner/跨平臺banner5/1.png"
+            <figure class="hero-frame"><img class="hero-card" src="resource/banner/跨平臺banner5/1.jpg"
                 alt="平臺 banner 橫幅" /></figure>
-            <figure class="hero-frame"><img class="hero-card" src="resource/banner/跨平臺banner5/2.png"
+            <figure class="hero-frame"><img class="hero-card" src="resource/banner/跨平臺banner5/2.jpg"
                 alt="平臺 banner 方形" /></figure>
-            <figure class="hero-frame"><img class="hero-card" src="resource/banner/跨平臺banner5/3.png"
+            <figure class="hero-frame"><img class="hero-card" src="resource/banner/跨平臺banner5/3.jpg"
                 alt="平臺 banner 直式" /></figure>
-            <figure class="hero-frame"><img class="hero-card" src="resource/banner/跨平臺banner6/1.png"
+            <figure class="hero-frame"><img class="hero-card" src="resource/banner/跨平臺banner6/1.jpg"
                 alt="平臺 banner 橫幅" /></figure>
-            <figure class="hero-frame"><img class="hero-card" src="resource/banner/跨平臺banner6/2.png"
+            <figure class="hero-frame"><img class="hero-card" src="resource/banner/跨平臺banner6/2.jpg"
                 alt="平臺 banner 方形" /></figure>
-            <figure class="hero-frame"><img class="hero-card" src="resource/banner/跨平臺banner6/3.png"
+            <figure class="hero-frame"><img class="hero-card" src="resource/banner/跨平臺banner6/3.jpg"
                 alt="平臺 banner 直式" /></figure>
           </div>
         </div>
@@ -1364,16 +1368,16 @@
             </div>
             <div class="character-main-grid">
               <figure class="character-card character-card-main">
-                <img src="resource/人物一致性演示/1.png" alt="人物一致性主要演示圖" />
+                <img src="resource/人物一致性演示/1.jpg" alt="人物一致性主要演示圖" loading="lazy" decoding="async" />
               </figure>
               <figure class="character-card character-card-main">
-                <img src="resource/人物一致性演示/2.png" alt="人物一致性主要演示圖" />
+                <img src="resource/人物一致性演示/2.jpg" alt="人物一致性主要演示圖" loading="lazy" decoding="async" />
               </figure>
               <figure class="character-card character-card-main">
-                <img src="resource/人物一致性演示/3.png" alt="人物一致性主要演示圖" />
+                <img src="resource/人物一致性演示/3.jpg" alt="人物一致性主要演示圖" loading="lazy" decoding="async" />
               </figure>
               <figure class="character-card character-card-main">
-                <img src="resource/人物一致性演示/4.png" alt="人物一致性主要演示圖" />
+                <img src="resource/人物一致性演示/4.jpg" alt="人物一致性主要演示圖" loading="lazy" decoding="async" />
               </figure>
             </div>
           </section>
@@ -1385,22 +1389,22 @@
             </div>
             <div class="character-gallery-grid">
               <figure class="character-card">
-                <img src="resource/人物一致性演示/a1.png" alt="人物一致性對應作品圖" />
+                <img src="resource/人物一致性演示/a1.jpg" alt="人物一致性對應作品圖" loading="lazy" decoding="async" />
               </figure>
               <figure class="character-card">
-                <img src="resource/人物一致性演示/a2.png" alt="人物一致性對應作品圖" />
+                <img src="resource/人物一致性演示/a2.jpg" alt="人物一致性對應作品圖" loading="lazy" decoding="async" />
               </figure>
               <figure class="character-card">
-                <img src="resource/人物一致性演示/a3.png" alt="人物一致性對應作品圖" />
+                <img src="resource/人物一致性演示/a3.jpg" alt="人物一致性對應作品圖" loading="lazy" decoding="async" />
               </figure>
               <figure class="character-card">
-                <img src="resource/人物一致性演示/a4.png" alt="人物一致性對應作品圖" />
+                <img src="resource/人物一致性演示/a4.jpg" alt="人物一致性對應作品圖" loading="lazy" decoding="async" />
               </figure>
               <figure class="character-card">
-                <img src="resource/人物一致性演示/a5.png" alt="人物一致性對應作品圖" />
+                <img src="resource/人物一致性演示/a5.jpg" alt="人物一致性對應作品圖" loading="lazy" decoding="async" />
               </figure>
               <figure class="character-card">
-                <img src="resource/人物一致性演示/a6.png" alt="人物一致性對應作品圖" />
+                <img src="resource/人物一致性演示/a6.jpg" alt="人物一致性對應作品圖" loading="lazy" decoding="async" />
               </figure>
             </div>
           </section>
@@ -1416,21 +1420,42 @@
 
         <div class="guide-grid">
           <article class="guide-card">
-            <img src="resource/導購頁作品/1.png" alt="產品導購作品" />
+            <img src="resource/導購頁作品/1.jpg" alt="產品導購作品" loading="lazy" decoding="async" />
             <div>
               <span>Guide Page</span>
               <p class="work-note">背景皆由 AI 生成。</p>
             </div>
           </article>
           <article class="guide-card">
-            <img src="resource/導購頁作品/2.png" alt="產品導購作品" />
+            <img src="resource/導購頁作品/2.jpg" alt="產品導購作品" loading="lazy" decoding="async" />
             <div>
               <span>Guide Page</span>
               <p class="work-note">背景皆由 AI 生成。</p>
             </div>
           </article>
           <article class="guide-card">
-            <img src="resource/導購頁作品/3.png" alt="產品導購作品" />
+            <img src="resource/導購頁作品/3.jpg" alt="產品導購作品" loading="lazy" decoding="async" />
+            <div>
+              <span>Guide Page</span>
+              <p class="work-note">背景皆由 AI 生成。</p>
+            </div>
+          </article>
+          <article class="guide-card">
+            <img src="resource/導購頁作品/4.jpg" alt="產品導購作品" loading="lazy" decoding="async" />
+            <div>
+              <span>Guide Page</span>
+              <p class="work-note">背景皆由 AI 生成。</p>
+            </div>
+          </article>
+          <article class="guide-card">
+            <img src="resource/導購頁作品/5.jpg" alt="產品導購作品" loading="lazy" decoding="async" />
+            <div>
+              <span>Guide Page</span>
+              <p class="work-note">背景皆由 AI 生成。</p>
+            </div>
+          </article>
+          <article class="guide-card">
+            <img src="resource/導購頁作品/6.jpg" alt="產品導購作品" loading="lazy" decoding="async" />
             <div>
               <span>Guide Page</span>
               <p class="work-note">背景皆由 AI 生成。</p>
@@ -1504,113 +1529,166 @@
     }
 
     /* BANNER_MANIFEST:START */
-    const BANNER_MANIFEST = [
-      { src: "resource/banner/跨平臺banner17/1.png", w: 1080, h: 1920, g: "跨平臺banner17" },
-      { src: "resource/banner/跨平臺banner17/3.png", w: 1080, h: 1920, g: "跨平臺banner17" },
-      { src: "resource/banner/跨平臺banner17/2.png", w: 1280, h: 1280, g: "跨平臺banner17" },
-      { src: "resource/banner/社群/1.png", w: 1080, h: 1350, g: "社群" },
-      { src: "resource/banner/社群/2.png", w: 1080, h: 1350, g: "社群" },
-      { src: "resource/banner/社群/3.png", w: 1080, h: 1350, g: "社群" },
-      { src: "resource/banner/社群/4.png", w: 1080, h: 1350, g: "社群" },
-      { src: "resource/banner/賀卡/1.png", w: 1000, h: 1000, g: "賀卡" },
-      { src: "resource/banner/賀卡/2.png", w: 1000, h: 1000, g: "賀卡" },
-      { src: "resource/banner/跨平臺banner/3.png", w: 1080, h: 1920, g: "跨平臺banner" },
-      { src: "resource/banner/跨平臺banner/2.png", w: 1920, h: 1920, g: "跨平臺banner" },
-      { src: "resource/banner/跨平臺banner/1.png", w: 1920, h: 1200, g: "跨平臺banner" },
-      { src: "resource/banner/跨平臺banner2/3.png", w: 1080, h: 1920, g: "跨平臺banner2" },
-      { src: "resource/banner/跨平臺banner2/2.png", w: 1920, h: 1920, g: "跨平臺banner2" },
-      { src: "resource/banner/跨平臺banner2/1.png", w: 1920, h: 1200, g: "跨平臺banner2" },
-      { src: "resource/banner/跨平臺banner8/3.png", w: 1080, h: 1920, g: "跨平臺banner8" },
-      { src: "resource/banner/跨平臺banner8/2.png", w: 1080, h: 1465, g: "跨平臺banner8" },
-      { src: "resource/banner/跨平臺banner8/1.png", w: 1080, h: 540, g: "跨平臺banner8" },
-      { src: "resource/banner/跨平臺banner9/3.png", w: 1080, h: 1920, g: "跨平臺banner9" },
-      { src: "resource/banner/跨平臺banner9/1.png", w: 1080, h: 1465, g: "跨平臺banner9" },
-      { src: "resource/banner/跨平臺banner9/2.png", w: 1080, h: 540, g: "跨平臺banner9" },
-      { src: "resource/banner/跨平臺banner4/3.jpg", w: 1920, h: 1920, g: "跨平臺banner4" },
-      { src: "resource/banner/跨平臺banner4/1.jpg", w: 1920, h: 1200, g: "跨平臺banner4" },
-      { src: "resource/banner/跨平臺banner4/2.jpg", w: 1200, h: 628, g: "跨平臺banner4" },
-      { src: "resource/banner/跨平臺banner16/3.png", w: 4501, h: 8001, g: "跨平臺banner16" },
-      { src: "resource/banner/跨平臺banner16/2.png", w: 4501, h: 4501, g: "跨平臺banner16" },
-      { src: "resource/banner/跨平臺banner16/1.png", w: 8001, h: 2335, g: "跨平臺banner16" },
-      { src: "resource/banner/跨平臺banne4/3.png", w: 1080, h: 1920, g: "跨平臺banne4" },
-      { src: "resource/banner/跨平臺banne4/2.png", w: 1080, h: 1080, g: "跨平臺banne4" },
-      { src: "resource/banner/跨平臺banne4/1.png", w: 1920, h: 560, g: "跨平臺banne4" },
-      { src: "resource/banner/跨平臺banner10/2.png", w: 1080, h: 1920, g: "跨平臺banner10" },
-      { src: "resource/banner/跨平臺banner10/1.png", w: 1080, h: 1080, g: "跨平臺banner10" },
-      { src: "resource/banner/跨平臺banner10/3.png", w: 1920, h: 560, g: "跨平臺banner10" },
-      { src: "resource/banner/跨平臺banner11/3.png", w: 1080, h: 1920, g: "跨平臺banner11" },
-      { src: "resource/banner/跨平臺banner11/2.png", w: 1080, h: 1080, g: "跨平臺banner11" },
-      { src: "resource/banner/跨平臺banner11/1.png", w: 1920, h: 560, g: "跨平臺banner11" },
-      { src: "resource/banner/跨平臺banner12/1.png", w: 1080, h: 1920, g: "跨平臺banner12" },
-      { src: "resource/banner/跨平臺banner12/2.png", w: 1080, h: 1080, g: "跨平臺banner12" },
-      { src: "resource/banner/跨平臺banner12/3.png", w: 1920, h: 560, g: "跨平臺banner12" },
-      { src: "resource/banner/跨平臺banner13/3.png", w: 1080, h: 1920, g: "跨平臺banner13" },
-      { src: "resource/banner/跨平臺banner13/2.png", w: 1080, h: 1080, g: "跨平臺banner13" },
-      { src: "resource/banner/跨平臺banner13/1.png", w: 1920, h: 560, g: "跨平臺banner13" },
-      { src: "resource/banner/跨平臺banner14/3.png", w: 1080, h: 1920, g: "跨平臺banner14" },
-      { src: "resource/banner/跨平臺banner14/2.png", w: 1080, h: 1080, g: "跨平臺banner14" },
-      { src: "resource/banner/跨平臺banner14/1.png", w: 1920, h: 560, g: "跨平臺banner14" },
-      { src: "resource/banner/跨平臺banner15/1.png", w: 1080, h: 1920, g: "跨平臺banner15" },
-      { src: "resource/banner/跨平臺banner15/2.png", w: 1080, h: 1080, g: "跨平臺banner15" },
-      { src: "resource/banner/跨平臺banner15/3.png", w: 1920, h: 560, g: "跨平臺banner15" },
-      { src: "resource/banner/跨平臺banner19/1.png", w: 1080, h: 1920, g: "跨平臺banner19" },
-      { src: "resource/banner/跨平臺banner19/2.png", w: 1080, h: 1080, g: "跨平臺banner19" },
-      { src: "resource/banner/跨平臺banner19/3.png", w: 1920, h: 560, g: "跨平臺banner19" },
-      { src: "resource/banner/跨平臺banner3/3.png", w: 1080, h: 1920, g: "跨平臺banner3" },
-      { src: "resource/banner/跨平臺banner3/2.png", w: 1080, h: 1080, g: "跨平臺banner3" },
-      { src: "resource/banner/跨平臺banner3/1.png", w: 1920, h: 560, g: "跨平臺banner3" },
-      { src: "resource/banner/跨平臺banner5/3.png", w: 1080, h: 1920, g: "跨平臺banner5" },
-      { src: "resource/banner/跨平臺banner5/2.png", w: 1080, h: 1080, g: "跨平臺banner5" },
-      { src: "resource/banner/跨平臺banner5/1.png", w: 1920, h: 560, g: "跨平臺banner5" },
-      { src: "resource/banner/跨平臺banner6/3.png", w: 1080, h: 1920, g: "跨平臺banner6" },
-      { src: "resource/banner/跨平臺banner6/2.png", w: 1080, h: 1080, g: "跨平臺banner6" },
-      { src: "resource/banner/跨平臺banner6/1.png", w: 1920, h: 560, g: "跨平臺banner6" },
-      { src: "resource/banner/跨平臺banner20/1.png", w: 1080, h: 1920, g: "跨平臺banner20" },
-      { src: "resource/banner/跨平臺banner20/3.png", w: 1080, h: 1465, g: "跨平臺banner20" },
-      { src: "resource/banner/跨平臺banner20/2.png", w: 1080, h: 540, g: "跨平臺banner20" },
-      { src: "resource/banner/跨平臺banner20/4.png", w: 1920, h: 560, g: "跨平臺banner20" },
-      { src: "resource/banner/跨平臺banner18/3.png", w: 852, h: 426, g: "跨平臺banner18" },
-      { src: "resource/banner/跨平臺banner18/2.png", w: 818, h: 370, g: "跨平臺banner18" },
-      { src: "resource/banner/跨平臺banner18/1.png", w: 1000, h: 300, g: "跨平臺banner18" },
-      { src: "resource/banner/跨平臺banner21/3.png", w: 852, h: 426, g: "跨平臺banner21" },
-      { src: "resource/banner/跨平臺banner21/2.png", w: 818, h: 370, g: "跨平臺banner21" },
-      { src: "resource/banner/跨平臺banner21/1.png", w: 1000, h: 300, g: "跨平臺banner21" },
-      { src: "resource/banner/跨平臺banner23/2.png", w: 852, h: 426, g: "跨平臺banner23" },
-      { src: "resource/banner/跨平臺banner23/1.png", w: 818, h: 370, g: "跨平臺banner23" },
-      { src: "resource/banner/跨平臺banner23/3.png", w: 1000, h: 300, g: "跨平臺banner23" },
-      { src: "resource/banner/跨平臺banner7/3.png", w: 852, h: 426, g: "跨平臺banner7" },
-      { src: "resource/banner/跨平臺banner7/2.png", w: 818, h: 370, g: "跨平臺banner7" },
-      { src: "resource/banner/跨平臺banner7/1.png", w: 1000, h: 300, g: "跨平臺banner7" },
-      { src: "resource/banner/跨平臺banner22/1.png", w: 1080, h: 1920, g: "跨平臺banner22" },
-      { src: "resource/banner/跨平臺banner22/2.png", w: 1920, h: 2870, g: "跨平臺banner22" },
-      { src: "resource/banner/跨平臺banner22/12.png", w: 630, h: 940, g: "跨平臺banner22" },
-      { src: "resource/banner/跨平臺banner22/6.png", w: 1080, h: 1080, g: "跨平臺banner22" },
-      { src: "resource/banner/跨平臺banner22/15.png", w: 1200, h: 1200, g: "跨平臺banner22" },
-      { src: "resource/banner/跨平臺banner22/16.png", w: 870, h: 500, g: "跨平臺banner22" },
-      { src: "resource/banner/跨平臺banner22/5.png", w: 1280, h: 640, g: "跨平臺banner22" },
-      { src: "resource/banner/跨平臺banner22/14.png", w: 750, h: 328, g: "跨平臺banner22" },
-      { src: "resource/banner/跨平臺banner22/7.png", w: 1920, h: 560, g: "跨平臺banner22" },
-      { src: "resource/banner/跨平臺banner22/4.png", w: 1280, h: 350, g: "跨平臺banner22" },
-      { src: "resource/banner/跨平臺banner22/8.png", w: 1260, h: 320, g: "跨平臺banner22" },
-      { src: "resource/banner/跨平臺banner22/9.png", w: 1260, h: 320, g: "跨平臺banner22" },
-      { src: "resource/banner/跨平臺banner22/11.png", w: 2000, h: 500, g: "跨平臺banner22" },
-      { src: "resource/banner/跨平臺banner22/13.png", w: 640, h: 145, g: "跨平臺banner22" },
-      { src: "resource/banner/跨平臺banner22/3.png", w: 1280, h: 246, g: "跨平臺banner22" },
-      { src: "resource/banner/跨平臺banner22/10.png", w: 1260, h: 65, g: "跨平臺banner22" },
-      { src: "resource/banner/Pinkoi/1.png", w: 1200, h: 246, g: "Pinkoi" },
-      { src: "resource/banner/Pinkoi/2.png", w: 1200, h: 246, g: "Pinkoi" },
-      { src: "resource/banner/Pinkoi/3.png", w: 1200, h: 246, g: "Pinkoi" },
-      { src: "resource/banner/Pinkoi/4.png", w: 1200, h: 246, g: "Pinkoi" },
-      { src: "resource/banner/Pinkoi/5.png", w: 1200, h: 246, g: "Pinkoi" },
-      { src: "resource/banner/Pinkoi/6.png", w: 1200, h: 246, g: "Pinkoi" },
-      { src: "resource/banner/Pinkoi/7.png", w: 1200, h: 246, g: "Pinkoi" },
-      { src: "resource/banner/Pinkoi/8.png", w: 1200, h: 246, g: "Pinkoi" },
-      { src: "resource/banner/Pinkoi/9.png", w: 1200, h: 246, g: "Pinkoi" },
-      { src: "resource/banner/Pinkoi/10.png", w: 1200, h: 246, g: "Pinkoi" },
-      { src: "resource/banner/Pinkoi/11.png", w: 1200, h: 246, g: "Pinkoi" },
-      { src: "resource/banner/Pinkoi/12.png", w: 1200, h: 246, g: "Pinkoi" },
-    ];
-    /* BANNER_MANIFEST:END */
+const BANNER_MANIFEST = [
+  { src: "resource/banner/跨平臺banner29/1.jpg", w: 1080, h: 1920, g: "跨平臺banner29" },
+  { src: "resource/banner/跨平臺banner29/3.jpg", w: 1080, h: 1920, g: "跨平臺banner29" },
+  { src: "resource/banner/跨平臺banner29/2.jpg", w: 1280, h: 1280, g: "跨平臺banner29" },
+  { src: "resource/banner/社群/1.jpg", w: 1080, h: 1350, g: "社群" },
+  { src: "resource/banner/社群/2.jpg", w: 1080, h: 1350, g: "社群" },
+  { src: "resource/banner/社群/3.jpg", w: 1080, h: 1350, g: "社群" },
+  { src: "resource/banner/社群/4.jpg", w: 1080, h: 1350, g: "社群" },
+  { src: "resource/banner/社群/6.jpg", w: 1080, h: 1350, g: "社群" },
+  { src: "resource/banner/社群/7.jpg", w: 1080, h: 1350, g: "社群" },
+  { src: "resource/banner/社群/8.jpg", w: 1080, h: 1350, g: "社群" },
+  { src: "resource/banner/社群/9.jpg", w: 1080, h: 1350, g: "社群" },
+  { src: "resource/banner/社群/5.jpg", w: 1081, h: 1350, g: "社群" },
+  { src: "resource/banner/社群/10.jpg", w: 1081, h: 1350, g: "社群" },
+  { src: "resource/banner/賀卡/1.jpg", w: 1000, h: 1000, g: "賀卡" },
+  { src: "resource/banner/賀卡/2.jpg", w: 1000, h: 1000, g: "賀卡" },
+  { src: "resource/banner/跨平臺banner/3.jpg", w: 1080, h: 1920, g: "跨平臺banner" },
+  { src: "resource/banner/跨平臺banner/2.jpg", w: 1920, h: 1920, g: "跨平臺banner" },
+  { src: "resource/banner/跨平臺banner/1.jpg", w: 1920, h: 1200, g: "跨平臺banner" },
+  { src: "resource/banner/跨平臺banner2/3.jpg", w: 1080, h: 1920, g: "跨平臺banner2" },
+  { src: "resource/banner/跨平臺banner2/2.jpg", w: 1920, h: 1920, g: "跨平臺banner2" },
+  { src: "resource/banner/跨平臺banner2/1.jpg", w: 1920, h: 1200, g: "跨平臺banner2" },
+  { src: "resource/banner/跨平臺banner24/3.jpg", w: 1080, h: 1920, g: "跨平臺banner24" },
+  { src: "resource/banner/跨平臺banner24/2.jpg", w: 1920, h: 1920, g: "跨平臺banner24" },
+  { src: "resource/banner/跨平臺banner24/1.jpg", w: 1920, h: 1200, g: "跨平臺banner24" },
+  { src: "resource/banner/跨平臺banner25/3.jpg", w: 1080, h: 1920, g: "跨平臺banner25" },
+  { src: "resource/banner/跨平臺banner25/2.jpg", w: 1920, h: 1920, g: "跨平臺banner25" },
+  { src: "resource/banner/跨平臺banner25/1.jpg", w: 1920, h: 1200, g: "跨平臺banner25" },
+  { src: "resource/banner/跨平臺banner27/4.jpg", w: 1080, h: 1920, g: "跨平臺banner27" },
+  { src: "resource/banner/跨平臺banner27/3.jpg", w: 1080, h: 1466, g: "跨平臺banner27" },
+  { src: "resource/banner/跨平臺banner27/2.jpg", w: 1200, h: 1200, g: "跨平臺banner27" },
+  { src: "resource/banner/跨平臺banner27/1.jpg", w: 1080, h: 540, g: "跨平臺banner27" },
+  { src: "resource/banner/跨平臺banner17/3.jpg", w: 1080, h: 1920, g: "跨平臺banner17" },
+  { src: "resource/banner/跨平臺banner17/2.jpg", w: 1080, h: 1465, g: "跨平臺banner17" },
+  { src: "resource/banner/跨平臺banner17/1.jpg", w: 1080, h: 540, g: "跨平臺banner17" },
+  { src: "resource/banner/跨平臺banner21/1.jpg", w: 1080, h: 1920, g: "跨平臺banner21" },
+  { src: "resource/banner/跨平臺banner21/3.jpg", w: 1080, h: 1465, g: "跨平臺banner21" },
+  { src: "resource/banner/跨平臺banner21/2.jpg", w: 1080, h: 540, g: "跨平臺banner21" },
+  { src: "resource/banner/跨平臺banner26/3.jpg", w: 1080, h: 1920, g: "跨平臺banner26" },
+  { src: "resource/banner/跨平臺banner26/2.jpg", w: 1080, h: 1465, g: "跨平臺banner26" },
+  { src: "resource/banner/跨平臺banner26/1.jpg", w: 1080, h: 540, g: "跨平臺banner26" },
+  { src: "resource/banner/跨平臺banner36/3.jpg", w: 1080, h: 1920, g: "跨平臺banner36" },
+  { src: "resource/banner/跨平臺banner36/2.jpg", w: 1080, h: 1465, g: "跨平臺banner36" },
+  { src: "resource/banner/跨平臺banner36/1.jpg", w: 1080, h: 540, g: "跨平臺banner36" },
+  { src: "resource/banner/跨平臺banner8/3.jpg", w: 1080, h: 1920, g: "跨平臺banner8" },
+  { src: "resource/banner/跨平臺banner8/2.jpg", w: 1080, h: 1465, g: "跨平臺banner8" },
+  { src: "resource/banner/跨平臺banner8/1.jpg", w: 1080, h: 540, g: "跨平臺banner8" },
+  { src: "resource/banner/跨平臺banner9/3.jpg", w: 1080, h: 1920, g: "跨平臺banner9" },
+  { src: "resource/banner/跨平臺banner9/1.jpg", w: 1080, h: 1465, g: "跨平臺banner9" },
+  { src: "resource/banner/跨平臺banner9/2.jpg", w: 1080, h: 540, g: "跨平臺banner9" },
+  { src: "resource/banner/跨平臺banner28/3.jpg", w: 1920, h: 1920, g: "跨平臺banner28" },
+  { src: "resource/banner/跨平臺banner28/1.jpg", w: 1920, h: 1200, g: "跨平臺banner28" },
+  { src: "resource/banner/跨平臺banner28/2.jpg", w: 1200, h: 628, g: "跨平臺banner28" },
+  { src: "resource/banner/跨平臺banner7/3.jpg", w: 1600, h: 2844, g: "跨平臺banner7" },
+  { src: "resource/banner/跨平臺banner7/2.jpg", w: 2200, h: 2200, g: "跨平臺banner7" },
+  { src: "resource/banner/跨平臺banner7/1.jpg", w: 5482, h: 1600, g: "跨平臺banner7" },
+  { src: "resource/banner/跨平臺banne242/3.jpg", w: 1080, h: 1920, g: "跨平臺banne242" },
+  { src: "resource/banner/跨平臺banne242/2.jpg", w: 1080, h: 1080, g: "跨平臺banne242" },
+  { src: "resource/banner/跨平臺banne242/1.jpg", w: 1920, h: 560, g: "跨平臺banne242" },
+  { src: "resource/banner/跨平臺banner10/2.jpg", w: 1080, h: 1920, g: "跨平臺banner10" },
+  { src: "resource/banner/跨平臺banner10/1.jpg", w: 1080, h: 1080, g: "跨平臺banner10" },
+  { src: "resource/banner/跨平臺banner10/3.jpg", w: 1920, h: 560, g: "跨平臺banner10" },
+  { src: "resource/banner/跨平臺banner11/3.jpg", w: 1080, h: 1920, g: "跨平臺banner11" },
+  { src: "resource/banner/跨平臺banner11/2.jpg", w: 1080, h: 1080, g: "跨平臺banner11" },
+  { src: "resource/banner/跨平臺banner11/1.jpg", w: 1920, h: 560, g: "跨平臺banner11" },
+  { src: "resource/banner/跨平臺banner12/1.jpg", w: 1080, h: 1920, g: "跨平臺banner12" },
+  { src: "resource/banner/跨平臺banner12/2.jpg", w: 1080, h: 1080, g: "跨平臺banner12" },
+  { src: "resource/banner/跨平臺banner12/3.jpg", w: 1920, h: 560, g: "跨平臺banner12" },
+  { src: "resource/banner/跨平臺banner13/3.jpg", w: 1080, h: 1920, g: "跨平臺banner13" },
+  { src: "resource/banner/跨平臺banner13/2.jpg", w: 1080, h: 1080, g: "跨平臺banner13" },
+  { src: "resource/banner/跨平臺banner13/1.jpg", w: 1920, h: 560, g: "跨平臺banner13" },
+  { src: "resource/banner/跨平臺banner14/3.jpg", w: 1080, h: 1920, g: "跨平臺banner14" },
+  { src: "resource/banner/跨平臺banner14/2.jpg", w: 1080, h: 1080, g: "跨平臺banner14" },
+  { src: "resource/banner/跨平臺banner14/1.jpg", w: 1920, h: 560, g: "跨平臺banner14" },
+  { src: "resource/banner/跨平臺banner15/1.jpg", w: 1080, h: 1920, g: "跨平臺banner15" },
+  { src: "resource/banner/跨平臺banner15/2.jpg", w: 1080, h: 1080, g: "跨平臺banner15" },
+  { src: "resource/banner/跨平臺banner15/3.jpg", w: 1920, h: 560, g: "跨平臺banner15" },
+  { src: "resource/banner/跨平臺banner16/3.jpg", w: 1080, h: 1920, g: "跨平臺banner16" },
+  { src: "resource/banner/跨平臺banner16/2.jpg", w: 1080, h: 1080, g: "跨平臺banner16" },
+  { src: "resource/banner/跨平臺banner16/1.jpg", w: 1920, h: 560, g: "跨平臺banner16" },
+  { src: "resource/banner/跨平臺banner22/1.jpg", w: 1080, h: 1920, g: "跨平臺banner22" },
+  { src: "resource/banner/跨平臺banner22/2.jpg", w: 1080, h: 1080, g: "跨平臺banner22" },
+  { src: "resource/banner/跨平臺banner22/3.jpg", w: 1920, h: 560, g: "跨平臺banner22" },
+  { src: "resource/banner/跨平臺banner3/3.jpg", w: 1080, h: 1920, g: "跨平臺banner3" },
+  { src: "resource/banner/跨平臺banner3/2.jpg", w: 1080, h: 1080, g: "跨平臺banner3" },
+  { src: "resource/banner/跨平臺banner3/1.jpg", w: 1920, h: 560, g: "跨平臺banner3" },
+  { src: "resource/banner/跨平臺banner30/3.jpg", w: 1080, h: 1920, g: "跨平臺banner30" },
+  { src: "resource/banner/跨平臺banner30/2.jpg", w: 1080, h: 1080, g: "跨平臺banner30" },
+  { src: "resource/banner/跨平臺banner30/1.jpg", w: 1920, h: 560, g: "跨平臺banner30" },
+  { src: "resource/banner/跨平臺banner38/3.jpg", w: 1080, h: 1920, g: "跨平臺banner38" },
+  { src: "resource/banner/跨平臺banner38/2.jpg", w: 1080, h: 1080, g: "跨平臺banner38" },
+  { src: "resource/banner/跨平臺banner38/1.jpg", w: 1920, h: 560, g: "跨平臺banner38" },
+  { src: "resource/banner/跨平臺banner40/3.jpg", w: 1080, h: 1920, g: "跨平臺banner40" },
+  { src: "resource/banner/跨平臺banner40/2.jpg", w: 1080, h: 1080, g: "跨平臺banner40" },
+  { src: "resource/banner/跨平臺banner40/1.jpg", w: 1920, h: 560, g: "跨平臺banner40" },
+  { src: "resource/banner/跨平臺banner5/3.jpg", w: 1080, h: 1920, g: "跨平臺banner5" },
+  { src: "resource/banner/跨平臺banner5/2.jpg", w: 1080, h: 1080, g: "跨平臺banner5" },
+  { src: "resource/banner/跨平臺banner5/1.jpg", w: 1920, h: 560, g: "跨平臺banner5" },
+  { src: "resource/banner/跨平臺banner6/3.jpg", w: 1080, h: 1920, g: "跨平臺banner6" },
+  { src: "resource/banner/跨平臺banner6/2.jpg", w: 1080, h: 1080, g: "跨平臺banner6" },
+  { src: "resource/banner/跨平臺banner6/1.jpg", w: 1920, h: 560, g: "跨平臺banner6" },
+  { src: "resource/banner/跨平臺banner31/2.jpg", w: 1280, h: 1280, g: "跨平臺banner31" },
+  { src: "resource/banner/跨平臺banner31/1.jpg", w: 1920, h: 560, g: "跨平臺banner31" },
+  { src: "resource/banner/跨平臺banner32/2.jpg", w: 1280, h: 1280, g: "跨平臺banner32" },
+  { src: "resource/banner/跨平臺banner32/1.jpg", w: 1920, h: 560, g: "跨平臺banner32" },
+  { src: "resource/banner/跨平臺banner39/2.jpg", w: 1280, h: 1280, g: "跨平臺banner39" },
+  { src: "resource/banner/跨平臺banner39/1.jpg", w: 1920, h: 560, g: "跨平臺banner39" },
+  { src: "resource/banner/跨平臺banner18/3.jpg", w: 852, h: 426, g: "跨平臺banner18" },
+  { src: "resource/banner/跨平臺banner18/2.jpg", w: 818, h: 370, g: "跨平臺banner18" },
+  { src: "resource/banner/跨平臺banner18/1.jpg", w: 1000, h: 300, g: "跨平臺banner18" },
+  { src: "resource/banner/跨平臺banner19/2.jpg", w: 852, h: 426, g: "跨平臺banner19" },
+  { src: "resource/banner/跨平臺banner19/1.jpg", w: 818, h: 370, g: "跨平臺banner19" },
+  { src: "resource/banner/跨平臺banner19/3.jpg", w: 1000, h: 300, g: "跨平臺banner19" },
+  { src: "resource/banner/跨平臺banner33/3.jpg", w: 852, h: 426, g: "跨平臺banner33" },
+  { src: "resource/banner/跨平臺banner33/2.jpg", w: 818, h: 370, g: "跨平臺banner33" },
+  { src: "resource/banner/跨平臺banner33/1.jpg", w: 1000, h: 300, g: "跨平臺banner33" },
+  { src: "resource/banner/跨平臺banner34/3.jpg", w: 852, h: 426, g: "跨平臺banner34" },
+  { src: "resource/banner/跨平臺banner34/2.jpg", w: 818, h: 370, g: "跨平臺banner34" },
+  { src: "resource/banner/跨平臺banner34/1.jpg", w: 1000, h: 300, g: "跨平臺banner34" },
+  { src: "resource/banner/跨平臺banner35/3.jpg", w: 852, h: 426, g: "跨平臺banner35" },
+  { src: "resource/banner/跨平臺banner35/2.jpg", w: 818, h: 370, g: "跨平臺banner35" },
+  { src: "resource/banner/跨平臺banner35/1.jpg", w: 1000, h: 300, g: "跨平臺banner35" },
+  { src: "resource/banner/跨平臺banner37/3.jpg", w: 852, h: 426, g: "跨平臺banner37" },
+  { src: "resource/banner/跨平臺banner37/2.jpg", w: 818, h: 370, g: "跨平臺banner37" },
+  { src: "resource/banner/跨平臺banner37/1.jpg", w: 1000, h: 300, g: "跨平臺banner37" },
+  { src: "resource/banner/跨平臺banner4/3.jpg", w: 852, h: 426, g: "跨平臺banner4" },
+  { src: "resource/banner/跨平臺banner4/2.jpg", w: 818, h: 370, g: "跨平臺banner4" },
+  { src: "resource/banner/跨平臺banner4/1.jpg", w: 1000, h: 300, g: "跨平臺banner4" },
+  { src: "resource/banner/跨平臺banner23/2.jpg", w: 2160, h: 1210, g: "跨平臺banner23" },
+  { src: "resource/banner/跨平臺banner23/1.jpg", w: 1920, h: 560, g: "跨平臺banner23" },
+  { src: "resource/banner/跨平臺banner20/1.jpg", w: 1080, h: 1920, g: "跨平臺banner20" },
+  { src: "resource/banner/跨平臺banner20/2.jpg", w: 1600, h: 2392, g: "跨平臺banner20" },
+  { src: "resource/banner/跨平臺banner20/12.jpg", w: 630, h: 940, g: "跨平臺banner20" },
+  { src: "resource/banner/跨平臺banner20/6.jpg", w: 1080, h: 1080, g: "跨平臺banner20" },
+  { src: "resource/banner/跨平臺banner20/15.jpg", w: 1200, h: 1200, g: "跨平臺banner20" },
+  { src: "resource/banner/跨平臺banner20/16.jpg", w: 870, h: 500, g: "跨平臺banner20" },
+  { src: "resource/banner/跨平臺banner20/5.jpg", w: 1280, h: 640, g: "跨平臺banner20" },
+  { src: "resource/banner/跨平臺banner20/14.jpg", w: 750, h: 328, g: "跨平臺banner20" },
+  { src: "resource/banner/跨平臺banner20/7.jpg", w: 1920, h: 560, g: "跨平臺banner20" },
+  { src: "resource/banner/跨平臺banner20/4.jpg", w: 1280, h: 350, g: "跨平臺banner20" },
+  { src: "resource/banner/跨平臺banner20/8.jpg", w: 1260, h: 320, g: "跨平臺banner20" },
+  { src: "resource/banner/跨平臺banner20/9.jpg", w: 1260, h: 320, g: "跨平臺banner20" },
+  { src: "resource/banner/跨平臺banner20/11.jpg", w: 2000, h: 500, g: "跨平臺banner20" },
+  { src: "resource/banner/跨平臺banner20/13.jpg", w: 640, h: 145, g: "跨平臺banner20" },
+  { src: "resource/banner/跨平臺banner20/3.jpg", w: 1280, h: 246, g: "跨平臺banner20" },
+  { src: "resource/banner/跨平臺banner20/10.jpg", w: 1260, h: 65, g: "跨平臺banner20" },
+  { src: "resource/banner/Pinkoi/1.jpg", w: 1200, h: 246, g: "Pinkoi" },
+  { src: "resource/banner/Pinkoi/2.jpg", w: 1200, h: 246, g: "Pinkoi" },
+  { src: "resource/banner/Pinkoi/3.jpg", w: 1200, h: 246, g: "Pinkoi" },
+  { src: "resource/banner/Pinkoi/4.jpg", w: 1200, h: 246, g: "Pinkoi" },
+  { src: "resource/banner/Pinkoi/5.jpg", w: 1200, h: 246, g: "Pinkoi" },
+  { src: "resource/banner/Pinkoi/6.jpg", w: 1200, h: 246, g: "Pinkoi" },
+  { src: "resource/banner/Pinkoi/7.jpg", w: 1200, h: 246, g: "Pinkoi" },
+  { src: "resource/banner/Pinkoi/8.jpg", w: 1200, h: 246, g: "Pinkoi" },
+  { src: "resource/banner/Pinkoi/9.jpg", w: 1200, h: 246, g: "Pinkoi" },
+  { src: "resource/banner/Pinkoi/10.jpg", w: 1200, h: 246, g: "Pinkoi" },
+  { src: "resource/banner/Pinkoi/11.jpg", w: 1200, h: 246, g: "Pinkoi" },
+  { src: "resource/banner/Pinkoi/12.jpg", w: 1200, h: 246, g: "Pinkoi" },
+];
+/* BANNER_MANIFEST:END */
 
     function targetRowHeight() {
       const width = window.innerWidth;

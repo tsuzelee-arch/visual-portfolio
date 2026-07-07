@@ -1,624 +1,942 @@
 [
     {
-        "Path": "resource/banner/Pinkoi/1.png",
+        "Path": "resource/banner/Pinkoi/1.jpg",
         "Width": 1200,
         "Height": 246,
         "Ratio": 4.88
     },
     {
-        "Path": "resource/banner/Pinkoi/10.png",
+        "Path": "resource/banner/Pinkoi/10.jpg",
         "Width": 1200,
         "Height": 246,
         "Ratio": 4.88
     },
     {
-        "Path": "resource/banner/Pinkoi/11.png",
+        "Path": "resource/banner/Pinkoi/11.jpg",
         "Width": 1200,
         "Height": 246,
         "Ratio": 4.88
     },
     {
-        "Path": "resource/banner/Pinkoi/12.png",
+        "Path": "resource/banner/Pinkoi/12.jpg",
         "Width": 1200,
         "Height": 246,
         "Ratio": 4.88
     },
     {
-        "Path": "resource/banner/Pinkoi/2.png",
+        "Path": "resource/banner/Pinkoi/2.jpg",
         "Width": 1200,
         "Height": 246,
         "Ratio": 4.88
     },
     {
-        "Path": "resource/banner/Pinkoi/3.png",
+        "Path": "resource/banner/Pinkoi/3.jpg",
         "Width": 1200,
         "Height": 246,
         "Ratio": 4.88
     },
     {
-        "Path": "resource/banner/Pinkoi/4.png",
+        "Path": "resource/banner/Pinkoi/4.jpg",
         "Width": 1200,
         "Height": 246,
         "Ratio": 4.88
     },
     {
-        "Path": "resource/banner/Pinkoi/5.png",
+        "Path": "resource/banner/Pinkoi/5.jpg",
         "Width": 1200,
         "Height": 246,
         "Ratio": 4.88
     },
     {
-        "Path": "resource/banner/Pinkoi/6.png",
+        "Path": "resource/banner/Pinkoi/6.jpg",
         "Width": 1200,
         "Height": 246,
         "Ratio": 4.88
     },
     {
-        "Path": "resource/banner/Pinkoi/7.png",
+        "Path": "resource/banner/Pinkoi/7.jpg",
         "Width": 1200,
         "Height": 246,
         "Ratio": 4.88
     },
     {
-        "Path": "resource/banner/Pinkoi/8.png",
+        "Path": "resource/banner/Pinkoi/8.jpg",
         "Width": 1200,
         "Height": 246,
         "Ratio": 4.88
     },
     {
-        "Path": "resource/banner/Pinkoi/9.png",
+        "Path": "resource/banner/Pinkoi/9.jpg",
         "Width": 1200,
         "Height": 246,
         "Ratio": 4.88
     },
     {
-        "Path": "resource/banner/社群/1.png",
+        "Path": "resource/banner/社群/1.jpg",
         "Width": 1080,
         "Height": 1350,
         "Ratio": 0.8
     },
     {
-        "Path": "resource/banner/社群/2.png",
+        "Path": "resource/banner/社群/10.jpg",
+        "Width": 1081,
+        "Height": 1350,
+        "Ratio": 0.8
+    },
+    {
+        "Path": "resource/banner/社群/2.jpg",
         "Width": 1080,
         "Height": 1350,
         "Ratio": 0.8
     },
     {
-        "Path": "resource/banner/社群/3.png",
+        "Path": "resource/banner/社群/3.jpg",
         "Width": 1080,
         "Height": 1350,
         "Ratio": 0.8
     },
     {
-        "Path": "resource/banner/社群/4.png",
+        "Path": "resource/banner/社群/4.jpg",
         "Width": 1080,
         "Height": 1350,
         "Ratio": 0.8
     },
     {
-        "Path": "resource/banner/賀卡/1.png",
+        "Path": "resource/banner/社群/5.jpg",
+        "Width": 1081,
+        "Height": 1350,
+        "Ratio": 0.8
+    },
+    {
+        "Path": "resource/banner/社群/6.jpg",
+        "Width": 1080,
+        "Height": 1350,
+        "Ratio": 0.8
+    },
+    {
+        "Path": "resource/banner/社群/7.jpg",
+        "Width": 1080,
+        "Height": 1350,
+        "Ratio": 0.8
+    },
+    {
+        "Path": "resource/banner/社群/8.jpg",
+        "Width": 1080,
+        "Height": 1350,
+        "Ratio": 0.8
+    },
+    {
+        "Path": "resource/banner/社群/9.jpg",
+        "Width": 1080,
+        "Height": 1350,
+        "Ratio": 0.8
+    },
+    {
+        "Path": "resource/banner/賀卡/1.jpg",
         "Width": 1000,
         "Height": 1000,
         "Ratio": 1.0
     },
     {
-        "Path": "resource/banner/賀卡/2.png",
+        "Path": "resource/banner/賀卡/2.jpg",
         "Width": 1000,
         "Height": 1000,
         "Ratio": 1.0
     },
     {
-        "Path": "resource/banner/跨平臺banne4/1.png",
+        "Path": "resource/banner/跨平臺banne242/1.jpg",
         "Width": 1920,
         "Height": 560,
         "Ratio": 3.43
     },
     {
-        "Path": "resource/banner/跨平臺banne4/2.png",
+        "Path": "resource/banner/跨平臺banne242/2.jpg",
         "Width": 1080,
         "Height": 1080,
         "Ratio": 1.0
     },
     {
-        "Path": "resource/banner/跨平臺banne4/3.png",
+        "Path": "resource/banner/跨平臺banne242/3.jpg",
         "Width": 1080,
         "Height": 1920,
         "Ratio": 0.56
     },
     {
-        "Path": "resource/banner/跨平臺banner/1.png",
+        "Path": "resource/banner/跨平臺banner/1.jpg",
         "Width": 1920,
         "Height": 1200,
         "Ratio": 1.6
     },
     {
-        "Path": "resource/banner/跨平臺banner/2.png",
+        "Path": "resource/banner/跨平臺banner/2.jpg",
         "Width": 1920,
         "Height": 1920,
         "Ratio": 1.0
     },
     {
-        "Path": "resource/banner/跨平臺banner/3.png",
+        "Path": "resource/banner/跨平臺banner/3.jpg",
         "Width": 1080,
         "Height": 1920,
         "Ratio": 0.56
     },
     {
-        "Path": "resource/banner/跨平臺banner10/1.png",
+        "Path": "resource/banner/跨平臺banner10/1.jpg",
         "Width": 1080,
         "Height": 1080,
         "Ratio": 1.0
     },
     {
-        "Path": "resource/banner/跨平臺banner10/2.png",
+        "Path": "resource/banner/跨平臺banner10/2.jpg",
         "Width": 1080,
         "Height": 1920,
         "Ratio": 0.56
     },
     {
-        "Path": "resource/banner/跨平臺banner10/3.png",
+        "Path": "resource/banner/跨平臺banner10/3.jpg",
         "Width": 1920,
         "Height": 560,
         "Ratio": 3.43
     },
     {
-        "Path": "resource/banner/跨平臺banner11/1.png",
+        "Path": "resource/banner/跨平臺banner11/1.jpg",
         "Width": 1920,
         "Height": 560,
         "Ratio": 3.43
     },
     {
-        "Path": "resource/banner/跨平臺banner11/2.png",
+        "Path": "resource/banner/跨平臺banner11/2.jpg",
         "Width": 1080,
         "Height": 1080,
         "Ratio": 1.0
     },
     {
-        "Path": "resource/banner/跨平臺banner11/3.png",
+        "Path": "resource/banner/跨平臺banner11/3.jpg",
         "Width": 1080,
         "Height": 1920,
         "Ratio": 0.56
     },
     {
-        "Path": "resource/banner/跨平臺banner12/1.png",
+        "Path": "resource/banner/跨平臺banner12/1.jpg",
         "Width": 1080,
         "Height": 1920,
         "Ratio": 0.56
     },
     {
-        "Path": "resource/banner/跨平臺banner12/2.png",
+        "Path": "resource/banner/跨平臺banner12/2.jpg",
         "Width": 1080,
         "Height": 1080,
         "Ratio": 1.0
     },
     {
-        "Path": "resource/banner/跨平臺banner12/3.png",
+        "Path": "resource/banner/跨平臺banner12/3.jpg",
         "Width": 1920,
         "Height": 560,
         "Ratio": 3.43
     },
     {
-        "Path": "resource/banner/跨平臺banner13/1.png",
+        "Path": "resource/banner/跨平臺banner13/1.jpg",
         "Width": 1920,
         "Height": 560,
         "Ratio": 3.43
     },
     {
-        "Path": "resource/banner/跨平臺banner13/2.png",
+        "Path": "resource/banner/跨平臺banner13/2.jpg",
         "Width": 1080,
         "Height": 1080,
         "Ratio": 1.0
     },
     {
-        "Path": "resource/banner/跨平臺banner13/3.png",
+        "Path": "resource/banner/跨平臺banner13/3.jpg",
         "Width": 1080,
         "Height": 1920,
         "Ratio": 0.56
     },
     {
-        "Path": "resource/banner/跨平臺banner14/1.png",
+        "Path": "resource/banner/跨平臺banner14/1.jpg",
         "Width": 1920,
         "Height": 560,
         "Ratio": 3.43
     },
     {
-        "Path": "resource/banner/跨平臺banner14/2.png",
+        "Path": "resource/banner/跨平臺banner14/2.jpg",
         "Width": 1080,
         "Height": 1080,
         "Ratio": 1.0
     },
     {
-        "Path": "resource/banner/跨平臺banner14/3.png",
+        "Path": "resource/banner/跨平臺banner14/3.jpg",
         "Width": 1080,
         "Height": 1920,
         "Ratio": 0.56
     },
     {
-        "Path": "resource/banner/跨平臺banner15/1.png",
+        "Path": "resource/banner/跨平臺banner15/1.jpg",
         "Width": 1080,
         "Height": 1920,
         "Ratio": 0.56
     },
     {
-        "Path": "resource/banner/跨平臺banner15/2.png",
+        "Path": "resource/banner/跨平臺banner15/2.jpg",
         "Width": 1080,
         "Height": 1080,
         "Ratio": 1.0
     },
     {
-        "Path": "resource/banner/跨平臺banner15/3.png",
+        "Path": "resource/banner/跨平臺banner15/3.jpg",
         "Width": 1920,
         "Height": 560,
         "Ratio": 3.43
     },
     {
-        "Path": "resource/banner/跨平臺banner16/1.png",
-        "Width": 8001,
-        "Height": 2335,
-        "Ratio": 3.43
-    },
-    {
-        "Path": "resource/banner/跨平臺banner16/2.png",
-        "Width": 4501,
-        "Height": 4501,
-        "Ratio": 1.0
-    },
-    {
-        "Path": "resource/banner/跨平臺banner16/3.png",
-        "Width": 4501,
-        "Height": 8001,
-        "Ratio": 0.56
-    },
-    {
-        "Path": "resource/banner/跨平臺banner17/1.png",
-        "Width": 1080,
-        "Height": 1920,
-        "Ratio": 0.56
-    },
-    {
-        "Path": "resource/banner/跨平臺banner17/2.png",
-        "Width": 1280,
-        "Height": 1280,
-        "Ratio": 1.0
-    },
-    {
-        "Path": "resource/banner/跨平臺banner17/3.png",
-        "Width": 1080,
-        "Height": 1920,
-        "Ratio": 0.56
-    },
-    {
-        "Path": "resource/banner/跨平臺banner18/1.png",
-        "Width": 1000,
-        "Height": 300,
-        "Ratio": 3.33
-    },
-    {
-        "Path": "resource/banner/跨平臺banner18/2.png",
-        "Width": 818,
-        "Height": 370,
-        "Ratio": 2.21
-    },
-    {
-        "Path": "resource/banner/跨平臺banner18/3.png",
-        "Width": 852,
-        "Height": 426,
-        "Ratio": 2.0
-    },
-    {
-        "Path": "resource/banner/跨平臺banner19/1.png",
-        "Width": 1080,
-        "Height": 1920,
-        "Ratio": 0.56
-    },
-    {
-        "Path": "resource/banner/跨平臺banner19/2.png",
-        "Width": 1080,
-        "Height": 1080,
-        "Ratio": 1.0
-    },
-    {
-        "Path": "resource/banner/跨平臺banner19/3.png",
+        "Path": "resource/banner/跨平臺banner16/1.jpg",
         "Width": 1920,
         "Height": 560,
         "Ratio": 3.43
     },
     {
-        "Path": "resource/banner/跨平臺banner2/1.png",
-        "Width": 1920,
-        "Height": 1200,
-        "Ratio": 1.6
-    },
-    {
-        "Path": "resource/banner/跨平臺banner2/2.png",
-        "Width": 1920,
-        "Height": 1920,
+        "Path": "resource/banner/跨平臺banner16/2.jpg",
+        "Width": 1080,
+        "Height": 1080,
         "Ratio": 1.0
     },
     {
-        "Path": "resource/banner/跨平臺banner2/3.png",
+        "Path": "resource/banner/跨平臺banner16/3.jpg",
         "Width": 1080,
         "Height": 1920,
         "Ratio": 0.56
     },
     {
-        "Path": "resource/banner/跨平臺banner20/1.png",
-        "Width": 1080,
-        "Height": 1920,
-        "Ratio": 0.56
-    },
-    {
-        "Path": "resource/banner/跨平臺banner20/2.png",
+        "Path": "resource/banner/跨平臺banner17/1.jpg",
         "Width": 1080,
         "Height": 540,
         "Ratio": 2.0
     },
     {
-        "Path": "resource/banner/跨平臺banner20/3.png",
+        "Path": "resource/banner/跨平臺banner17/2.jpg",
         "Width": 1080,
         "Height": 1465,
         "Ratio": 0.74
     },
     {
-        "Path": "resource/banner/跨平臺banner20/4.png",
-        "Width": 1920,
-        "Height": 560,
-        "Ratio": 3.43
-    },
-    {
-        "Path": "resource/banner/跨平臺banner21/1.png",
-        "Width": 1000,
-        "Height": 300,
-        "Ratio": 3.33
-    },
-    {
-        "Path": "resource/banner/跨平臺banner21/2.png",
-        "Width": 818,
-        "Height": 370,
-        "Ratio": 2.21
-    },
-    {
-        "Path": "resource/banner/跨平臺banner21/3.png",
-        "Width": 852,
-        "Height": 426,
-        "Ratio": 2.0
-    },
-    {
-        "Path": "resource/banner/跨平臺banner22/1.png",
+        "Path": "resource/banner/跨平臺banner17/3.jpg",
         "Width": 1080,
         "Height": 1920,
         "Ratio": 0.56
     },
     {
-        "Path": "resource/banner/跨平臺banner22/10.png",
+        "Path": "resource/banner/跨平臺banner18/1.jpg",
+        "Width": 1000,
+        "Height": 300,
+        "Ratio": 3.33
+    },
+    {
+        "Path": "resource/banner/跨平臺banner18/2.jpg",
+        "Width": 818,
+        "Height": 370,
+        "Ratio": 2.21
+    },
+    {
+        "Path": "resource/banner/跨平臺banner18/3.jpg",
+        "Width": 852,
+        "Height": 426,
+        "Ratio": 2.0
+    },
+    {
+        "Path": "resource/banner/跨平臺banner19/1.jpg",
+        "Width": 818,
+        "Height": 370,
+        "Ratio": 2.21
+    },
+    {
+        "Path": "resource/banner/跨平臺banner19/2.jpg",
+        "Width": 852,
+        "Height": 426,
+        "Ratio": 2.0
+    },
+    {
+        "Path": "resource/banner/跨平臺banner19/3.jpg",
+        "Width": 1000,
+        "Height": 300,
+        "Ratio": 3.33
+    },
+    {
+        "Path": "resource/banner/跨平臺banner2/1.jpg",
+        "Width": 1920,
+        "Height": 1200,
+        "Ratio": 1.6
+    },
+    {
+        "Path": "resource/banner/跨平臺banner2/2.jpg",
+        "Width": 1920,
+        "Height": 1920,
+        "Ratio": 1.0
+    },
+    {
+        "Path": "resource/banner/跨平臺banner2/3.jpg",
+        "Width": 1080,
+        "Height": 1920,
+        "Ratio": 0.56
+    },
+    {
+        "Path": "resource/banner/跨平臺banner20/1.jpg",
+        "Width": 1080,
+        "Height": 1920,
+        "Ratio": 0.56
+    },
+    {
+        "Path": "resource/banner/跨平臺banner20/10.jpg",
         "Width": 1260,
         "Height": 65,
         "Ratio": 19.38
     },
     {
-        "Path": "resource/banner/跨平臺banner22/11.png",
+        "Path": "resource/banner/跨平臺banner20/11.jpg",
         "Width": 2000,
         "Height": 500,
         "Ratio": 4.0
     },
     {
-        "Path": "resource/banner/跨平臺banner22/12.png",
+        "Path": "resource/banner/跨平臺banner20/12.jpg",
         "Width": 630,
         "Height": 940,
         "Ratio": 0.67
     },
     {
-        "Path": "resource/banner/跨平臺banner22/13.png",
+        "Path": "resource/banner/跨平臺banner20/13.jpg",
         "Width": 640,
         "Height": 145,
         "Ratio": 4.41
     },
     {
-        "Path": "resource/banner/跨平臺banner22/14.png",
+        "Path": "resource/banner/跨平臺banner20/14.jpg",
         "Width": 750,
         "Height": 328,
         "Ratio": 2.29
     },
     {
-        "Path": "resource/banner/跨平臺banner22/15.png",
+        "Path": "resource/banner/跨平臺banner20/15.jpg",
         "Width": 1200,
         "Height": 1200,
         "Ratio": 1.0
     },
     {
-        "Path": "resource/banner/跨平臺banner22/16.png",
+        "Path": "resource/banner/跨平臺banner20/16.jpg",
         "Width": 870,
         "Height": 500,
         "Ratio": 1.74
     },
     {
-        "Path": "resource/banner/跨平臺banner22/2.png",
-        "Width": 1920,
-        "Height": 2870,
+        "Path": "resource/banner/跨平臺banner20/2.jpg",
+        "Width": 1600,
+        "Height": 2392,
         "Ratio": 0.67
     },
     {
-        "Path": "resource/banner/跨平臺banner22/3.png",
+        "Path": "resource/banner/跨平臺banner20/3.jpg",
         "Width": 1280,
         "Height": 246,
         "Ratio": 5.2
     },
     {
-        "Path": "resource/banner/跨平臺banner22/4.png",
+        "Path": "resource/banner/跨平臺banner20/4.jpg",
         "Width": 1280,
         "Height": 350,
         "Ratio": 3.66
     },
     {
-        "Path": "resource/banner/跨平臺banner22/5.png",
+        "Path": "resource/banner/跨平臺banner20/5.jpg",
         "Width": 1280,
         "Height": 640,
         "Ratio": 2.0
     },
     {
-        "Path": "resource/banner/跨平臺banner22/6.png",
+        "Path": "resource/banner/跨平臺banner20/6.jpg",
         "Width": 1080,
         "Height": 1080,
         "Ratio": 1.0
     },
     {
-        "Path": "resource/banner/跨平臺banner22/7.png",
+        "Path": "resource/banner/跨平臺banner20/7.jpg",
         "Width": 1920,
         "Height": 560,
         "Ratio": 3.43
     },
     {
-        "Path": "resource/banner/跨平臺banner22/8.png",
+        "Path": "resource/banner/跨平臺banner20/8.jpg",
         "Width": 1260,
         "Height": 320,
         "Ratio": 3.94
     },
     {
-        "Path": "resource/banner/跨平臺banner22/9.png",
+        "Path": "resource/banner/跨平臺banner20/9.jpg",
         "Width": 1260,
         "Height": 320,
         "Ratio": 3.94
     },
     {
-        "Path": "resource/banner/跨平臺banner23/1.png",
-        "Width": 818,
-        "Height": 370,
-        "Ratio": 2.21
-    },
-    {
-        "Path": "resource/banner/跨平臺banner23/2.png",
-        "Width": 852,
-        "Height": 426,
-        "Ratio": 2.0
-    },
-    {
-        "Path": "resource/banner/跨平臺banner23/3.png",
-        "Width": 1000,
-        "Height": 300,
-        "Ratio": 3.33
-    },
-    {
-        "Path": "resource/banner/跨平臺banner3/1.png",
-        "Width": 1920,
-        "Height": 560,
-        "Ratio": 3.43
-    },
-    {
-        "Path": "resource/banner/跨平臺banner3/2.png",
-        "Width": 1080,
-        "Height": 1080,
-        "Ratio": 1.0
-    },
-    {
-        "Path": "resource/banner/跨平臺banner3/3.png",
+        "Path": "resource/banner/跨平臺banner21/1.jpg",
         "Width": 1080,
         "Height": 1920,
         "Ratio": 0.56
     },
     {
-        "Path": "resource/banner/跨平臺banner4/1.jpg",
+        "Path": "resource/banner/跨平臺banner21/2.jpg",
+        "Width": 1080,
+        "Height": 540,
+        "Ratio": 2.0
+    },
+    {
+        "Path": "resource/banner/跨平臺banner21/3.jpg",
+        "Width": 1080,
+        "Height": 1465,
+        "Ratio": 0.74
+    },
+    {
+        "Path": "resource/banner/跨平臺banner22/1.jpg",
+        "Width": 1080,
+        "Height": 1920,
+        "Ratio": 0.56
+    },
+    {
+        "Path": "resource/banner/跨平臺banner22/2.jpg",
+        "Width": 1080,
+        "Height": 1080,
+        "Ratio": 1.0
+    },
+    {
+        "Path": "resource/banner/跨平臺banner22/3.jpg",
+        "Width": 1920,
+        "Height": 560,
+        "Ratio": 3.43
+    },
+    {
+        "Path": "resource/banner/跨平臺banner23/1.jpg",
+        "Width": 1920,
+        "Height": 560,
+        "Ratio": 3.43
+    },
+    {
+        "Path": "resource/banner/跨平臺banner23/2.jpg",
+        "Width": 2160,
+        "Height": 1210,
+        "Ratio": 1.79
+    },
+    {
+        "Path": "resource/banner/跨平臺banner24/1.jpg",
         "Width": 1920,
         "Height": 1200,
         "Ratio": 1.6
     },
     {
-        "Path": "resource/banner/跨平臺banner4/2.jpg",
+        "Path": "resource/banner/跨平臺banner24/2.jpg",
+        "Width": 1920,
+        "Height": 1920,
+        "Ratio": 1.0
+    },
+    {
+        "Path": "resource/banner/跨平臺banner24/3.jpg",
+        "Width": 1080,
+        "Height": 1920,
+        "Ratio": 0.56
+    },
+    {
+        "Path": "resource/banner/跨平臺banner25/1.jpg",
+        "Width": 1920,
+        "Height": 1200,
+        "Ratio": 1.6
+    },
+    {
+        "Path": "resource/banner/跨平臺banner25/2.jpg",
+        "Width": 1920,
+        "Height": 1920,
+        "Ratio": 1.0
+    },
+    {
+        "Path": "resource/banner/跨平臺banner25/3.jpg",
+        "Width": 1080,
+        "Height": 1920,
+        "Ratio": 0.56
+    },
+    {
+        "Path": "resource/banner/跨平臺banner26/1.jpg",
+        "Width": 1080,
+        "Height": 540,
+        "Ratio": 2.0
+    },
+    {
+        "Path": "resource/banner/跨平臺banner26/2.jpg",
+        "Width": 1080,
+        "Height": 1465,
+        "Ratio": 0.74
+    },
+    {
+        "Path": "resource/banner/跨平臺banner26/3.jpg",
+        "Width": 1080,
+        "Height": 1920,
+        "Ratio": 0.56
+    },
+    {
+        "Path": "resource/banner/跨平臺banner27/1.jpg",
+        "Width": 1080,
+        "Height": 540,
+        "Ratio": 2.0
+    },
+    {
+        "Path": "resource/banner/跨平臺banner27/2.jpg",
+        "Width": 1200,
+        "Height": 1200,
+        "Ratio": 1.0
+    },
+    {
+        "Path": "resource/banner/跨平臺banner27/3.jpg",
+        "Width": 1080,
+        "Height": 1466,
+        "Ratio": 0.74
+    },
+    {
+        "Path": "resource/banner/跨平臺banner27/4.jpg",
+        "Width": 1080,
+        "Height": 1920,
+        "Ratio": 0.56
+    },
+    {
+        "Path": "resource/banner/跨平臺banner28/1.jpg",
+        "Width": 1920,
+        "Height": 1200,
+        "Ratio": 1.6
+    },
+    {
+        "Path": "resource/banner/跨平臺banner28/2.jpg",
         "Width": 1200,
         "Height": 628,
         "Ratio": 1.91
     },
     {
-        "Path": "resource/banner/跨平臺banner4/3.jpg",
+        "Path": "resource/banner/跨平臺banner28/3.jpg",
         "Width": 1920,
         "Height": 1920,
         "Ratio": 1.0
     },
     {
-        "Path": "resource/banner/跨平臺banner5/1.png",
-        "Width": 1920,
-        "Height": 560,
-        "Ratio": 3.43
-    },
-    {
-        "Path": "resource/banner/跨平臺banner5/2.png",
-        "Width": 1080,
-        "Height": 1080,
-        "Ratio": 1.0
-    },
-    {
-        "Path": "resource/banner/跨平臺banner5/3.png",
+        "Path": "resource/banner/跨平臺banner29/1.jpg",
         "Width": 1080,
         "Height": 1920,
         "Ratio": 0.56
     },
     {
-        "Path": "resource/banner/跨平臺banner6/1.png",
-        "Width": 1920,
-        "Height": 560,
-        "Ratio": 3.43
-    },
-    {
-        "Path": "resource/banner/跨平臺banner6/2.png",
-        "Width": 1080,
-        "Height": 1080,
+        "Path": "resource/banner/跨平臺banner29/2.jpg",
+        "Width": 1280,
+        "Height": 1280,
         "Ratio": 1.0
     },
     {
-        "Path": "resource/banner/跨平臺banner6/3.png",
+        "Path": "resource/banner/跨平臺banner29/3.jpg",
         "Width": 1080,
         "Height": 1920,
         "Ratio": 0.56
     },
     {
-        "Path": "resource/banner/跨平臺banner7/1.png",
+        "Path": "resource/banner/跨平臺banner3/1.jpg",
+        "Width": 1920,
+        "Height": 560,
+        "Ratio": 3.43
+    },
+    {
+        "Path": "resource/banner/跨平臺banner3/2.jpg",
+        "Width": 1080,
+        "Height": 1080,
+        "Ratio": 1.0
+    },
+    {
+        "Path": "resource/banner/跨平臺banner3/3.jpg",
+        "Width": 1080,
+        "Height": 1920,
+        "Ratio": 0.56
+    },
+    {
+        "Path": "resource/banner/跨平臺banner30/1.jpg",
+        "Width": 1920,
+        "Height": 560,
+        "Ratio": 3.43
+    },
+    {
+        "Path": "resource/banner/跨平臺banner30/2.jpg",
+        "Width": 1080,
+        "Height": 1080,
+        "Ratio": 1.0
+    },
+    {
+        "Path": "resource/banner/跨平臺banner30/3.jpg",
+        "Width": 1080,
+        "Height": 1920,
+        "Ratio": 0.56
+    },
+    {
+        "Path": "resource/banner/跨平臺banner31/1.jpg",
+        "Width": 1920,
+        "Height": 560,
+        "Ratio": 3.43
+    },
+    {
+        "Path": "resource/banner/跨平臺banner31/2.jpg",
+        "Width": 1280,
+        "Height": 1280,
+        "Ratio": 1.0
+    },
+    {
+        "Path": "resource/banner/跨平臺banner32/1.jpg",
+        "Width": 1920,
+        "Height": 560,
+        "Ratio": 3.43
+    },
+    {
+        "Path": "resource/banner/跨平臺banner32/2.jpg",
+        "Width": 1280,
+        "Height": 1280,
+        "Ratio": 1.0
+    },
+    {
+        "Path": "resource/banner/跨平臺banner33/1.jpg",
         "Width": 1000,
         "Height": 300,
         "Ratio": 3.33
     },
     {
-        "Path": "resource/banner/跨平臺banner7/2.png",
+        "Path": "resource/banner/跨平臺banner33/2.jpg",
         "Width": 818,
         "Height": 370,
         "Ratio": 2.21
     },
     {
-        "Path": "resource/banner/跨平臺banner7/3.png",
+        "Path": "resource/banner/跨平臺banner33/3.jpg",
         "Width": 852,
         "Height": 426,
         "Ratio": 2.0
     },
     {
-        "Path": "resource/banner/跨平臺banner8/1.png",
+        "Path": "resource/banner/跨平臺banner34/1.jpg",
+        "Width": 1000,
+        "Height": 300,
+        "Ratio": 3.33
+    },
+    {
+        "Path": "resource/banner/跨平臺banner34/2.jpg",
+        "Width": 818,
+        "Height": 370,
+        "Ratio": 2.21
+    },
+    {
+        "Path": "resource/banner/跨平臺banner34/3.jpg",
+        "Width": 852,
+        "Height": 426,
+        "Ratio": 2.0
+    },
+    {
+        "Path": "resource/banner/跨平臺banner35/1.jpg",
+        "Width": 1000,
+        "Height": 300,
+        "Ratio": 3.33
+    },
+    {
+        "Path": "resource/banner/跨平臺banner35/2.jpg",
+        "Width": 818,
+        "Height": 370,
+        "Ratio": 2.21
+    },
+    {
+        "Path": "resource/banner/跨平臺banner35/3.jpg",
+        "Width": 852,
+        "Height": 426,
+        "Ratio": 2.0
+    },
+    {
+        "Path": "resource/banner/跨平臺banner36/1.jpg",
         "Width": 1080,
         "Height": 540,
         "Ratio": 2.0
     },
     {
-        "Path": "resource/banner/跨平臺banner8/2.png",
+        "Path": "resource/banner/跨平臺banner36/2.jpg",
         "Width": 1080,
         "Height": 1465,
         "Ratio": 0.74
     },
     {
-        "Path": "resource/banner/跨平臺banner8/3.png",
+        "Path": "resource/banner/跨平臺banner36/3.jpg",
         "Width": 1080,
         "Height": 1920,
         "Ratio": 0.56
     },
     {
-        "Path": "resource/banner/跨平臺banner9/1.png",
-        "Width": 1080,
-        "Height": 1465,
-        "Ratio": 0.74
+        "Path": "resource/banner/跨平臺banner37/1.jpg",
+        "Width": 1000,
+        "Height": 300,
+        "Ratio": 3.33
     },
     {
-        "Path": "resource/banner/跨平臺banner9/2.png",
+        "Path": "resource/banner/跨平臺banner37/2.jpg",
+        "Width": 818,
+        "Height": 370,
+        "Ratio": 2.21
+    },
+    {
+        "Path": "resource/banner/跨平臺banner37/3.jpg",
+        "Width": 852,
+        "Height": 426,
+        "Ratio": 2.0
+    },
+    {
+        "Path": "resource/banner/跨平臺banner38/1.jpg",
+        "Width": 1920,
+        "Height": 560,
+        "Ratio": 3.43
+    },
+    {
+        "Path": "resource/banner/跨平臺banner38/2.jpg",
+        "Width": 1080,
+        "Height": 1080,
+        "Ratio": 1.0
+    },
+    {
+        "Path": "resource/banner/跨平臺banner38/3.jpg",
+        "Width": 1080,
+        "Height": 1920,
+        "Ratio": 0.56
+    },
+    {
+        "Path": "resource/banner/跨平臺banner39/1.jpg",
+        "Width": 1920,
+        "Height": 560,
+        "Ratio": 3.43
+    },
+    {
+        "Path": "resource/banner/跨平臺banner39/2.jpg",
+        "Width": 1280,
+        "Height": 1280,
+        "Ratio": 1.0
+    },
+    {
+        "Path": "resource/banner/跨平臺banner4/1.jpg",
+        "Width": 1000,
+        "Height": 300,
+        "Ratio": 3.33
+    },
+    {
+        "Path": "resource/banner/跨平臺banner4/2.jpg",
+        "Width": 818,
+        "Height": 370,
+        "Ratio": 2.21
+    },
+    {
+        "Path": "resource/banner/跨平臺banner4/3.jpg",
+        "Width": 852,
+        "Height": 426,
+        "Ratio": 2.0
+    },
+    {
+        "Path": "resource/banner/跨平臺banner40/1.jpg",
+        "Width": 1920,
+        "Height": 560,
+        "Ratio": 3.43
+    },
+    {
+        "Path": "resource/banner/跨平臺banner40/2.jpg",
+        "Width": 1080,
+        "Height": 1080,
+        "Ratio": 1.0
+    },
+    {
+        "Path": "resource/banner/跨平臺banner40/3.jpg",
+        "Width": 1080,
+        "Height": 1920,
+        "Ratio": 0.56
+    },
+    {
+        "Path": "resource/banner/跨平臺banner5/1.jpg",
+        "Width": 1920,
+        "Height": 560,
+        "Ratio": 3.43
+    },
+    {
+        "Path": "resource/banner/跨平臺banner5/2.jpg",
+        "Width": 1080,
+        "Height": 1080,
+        "Ratio": 1.0
+    },
+    {
+        "Path": "resource/banner/跨平臺banner5/3.jpg",
+        "Width": 1080,
+        "Height": 1920,
+        "Ratio": 0.56
+    },
+    {
+        "Path": "resource/banner/跨平臺banner6/1.jpg",
+        "Width": 1920,
+        "Height": 560,
+        "Ratio": 3.43
+    },
+    {
+        "Path": "resource/banner/跨平臺banner6/2.jpg",
+        "Width": 1080,
+        "Height": 1080,
+        "Ratio": 1.0
+    },
+    {
+        "Path": "resource/banner/跨平臺banner6/3.jpg",
+        "Width": 1080,
+        "Height": 1920,
+        "Ratio": 0.56
+    },
+    {
+        "Path": "resource/banner/跨平臺banner7/1.jpg",
+        "Width": 5482,
+        "Height": 1600,
+        "Ratio": 3.43
+    },
+    {
+        "Path": "resource/banner/跨平臺banner7/2.jpg",
+        "Width": 2200,
+        "Height": 2200,
+        "Ratio": 1.0
+    },
+    {
+        "Path": "resource/banner/跨平臺banner7/3.jpg",
+        "Width": 1600,
+        "Height": 2844,
+        "Ratio": 0.56
+    },
+    {
+        "Path": "resource/banner/跨平臺banner8/1.jpg",
         "Width": 1080,
         "Height": 540,
         "Ratio": 2.0
     },
     {
-        "Path": "resource/banner/跨平臺banner9/3.png",
+        "Path": "resource/banner/跨平臺banner8/2.jpg",
+        "Width": 1080,
+        "Height": 1465,
+        "Ratio": 0.74
+    },
+    {
+        "Path": "resource/banner/跨平臺banner8/3.jpg",
+        "Width": 1080,
+        "Height": 1920,
+        "Ratio": 0.56
+    },
+    {
+        "Path": "resource/banner/跨平臺banner9/1.jpg",
+        "Width": 1080,
+        "Height": 1465,
+        "Ratio": 0.74
+    },
+    {
+        "Path": "resource/banner/跨平臺banner9/2.jpg",
+        "Width": 1080,
+        "Height": 540,
+        "Ratio": 2.0
+    },
+    {
+        "Path": "resource/banner/跨平臺banner9/3.jpg",
         "Width": 1080,
         "Height": 1920,
         "Ratio": 0.56
