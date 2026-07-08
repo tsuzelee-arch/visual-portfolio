@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://visualizelee23fj21041v1-portfolio.pages.dev/sitemap.xml

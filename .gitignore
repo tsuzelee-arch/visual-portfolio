@@ -6,3 +6,9 @@ node_modules/
 Thumbs.db
 backups/
 __pycache__/
+
+# Excluded per user request
+.wrangler/
+wrangler.toml
+*.bat
+*.zip
