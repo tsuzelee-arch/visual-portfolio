@@ -1,0 +1,2805 @@
+{
+  "l01-smart-pro-toothbrush": {
+    "key": "images-v2|979177-1794460869844",
+    "entry": {
+      "cover": {
+        "base": "l01-smart-pro-toothbrush/cover",
+        "width": 960,
+        "height": 1200,
+        "widths": [
+          480,
+          960
+        ],
+        "color": "#d8d8d8"
+      },
+      "slices": [
+        {
+          "base": "l01-smart-pro-toothbrush/slice-01",
+          "width": 1000,
+          "height": 1600,
+          "widths": [
+            560,
+            1000
+          ],
+          "color": "#d8d8d8"
+        },
+        {
+          "base": "l01-smart-pro-toothbrush/slice-02",
+          "width": 1000,
+          "height": 1600,
+          "widths": [
+            560,
+            1000
+          ],
+          "color": "#e8f8f8"
+        },
+        {
+          "base": "l01-smart-pro-toothbrush/slice-03",
+          "width": 1000,
+          "height": 1600,
+          "widths": [
+            560,
+            1000
+          ],
+          "color": "#f8f8f8"
+        },
+        {
+          "base": "l01-smart-pro-toothbrush/slice-04",
+          "width": 1000,
+          "height": 1600,
+          "widths": [
+            560,
+            1000
+          ],
+          "color": "#e8e8e8"
+        },
+        {
+          "base": "l01-smart-pro-toothbrush/slice-05",
+          "width": 1000,
+          "height": 1600,
+          "widths": [
+            560,
+            1000
+          ],
+          "color": "#e8e8e8"
+        },
+        {
+          "base": "l01-smart-pro-toothbrush/slice-06",
+          "width": 1000,
+          "height": 1600,
+          "widths": [
+            560,
+            1000
+          ],
+          "color": "#e8e8f8"
+        },
+        {
+          "base": "l01-smart-pro-toothbrush/slice-07",
+          "width": 1000,
+          "height": 1600,
+          "widths": [
+            560,
+            1000
+          ],
+          "color": "#e8e8e8"
+        },
+        {
+          "base": "l01-smart-pro-toothbrush/slice-08",
+          "width": 1000,
+          "height": 1600,
+          "widths": [
+            560,
+            1000
+          ],
+          "color": "#e8e8f8"
+        },
+        {
+          "base": "l01-smart-pro-toothbrush/slice-09",
+          "width": 1000,
+          "height": 739,
+          "widths": [
+            560,
+            1000
+          ],
+          "color": "#e8e8e8"
+        }
+      ],
+      "page": {
+        "width": 1000,
+        "height": 13539
+      }
+    }
+  },
+  "l02-lightbang-mosquito-lamp": {
+    "key": "images-v2|1246406-1794460876244",
+    "entry": {
+      "cover": {
+        "base": "l02-lightbang-mosquito-lamp/cover",
+        "width": 960,
+        "height": 1200,
+        "widths": [
+          480,
+          960
+        ],
+        "color": "#385808"
+      },
+      "slices": [
+        {
+          "base": "l02-lightbang-mosquito-lamp/slice-01",
+          "width": 1000,
+          "height": 1600,
+          "widths": [
+            560,
+            1000
+          ],
+          "color": "#383838"
+        },
+        {
+          "base": "l02-lightbang-mosquito-lamp/slice-02",
+          "width": 1000,
+          "height": 1600,
+          "widths": [
+            560,
+            1000
+          ],
+          "color": "#383838"
+        },
+        {
+          "base": "l02-lightbang-mosquito-lamp/slice-03",
+          "width": 1000,
+          "height": 1600,
+          "widths": [
+            560,
+            1000
+          ],
+          "color": "#383838"
+        },
+        {
+          "base": "l02-lightbang-mosquito-lamp/slice-04",
+          "width": 1000,
+          "height": 1600,
+          "widths": [
+            560,
+            1000
+          ],
+          "color": "#383838"
+        },
+        {
+          "base": "l02-lightbang-mosquito-lamp/slice-05",
+          "width": 1000,
+          "height": 1600,
+          "widths": [
+            560,
+            1000
+          ],
+          "color": "#685838"
+        },
+        {
+          "base": "l02-lightbang-mosquito-lamp/slice-06",
+          "width": 1000,
+          "height": 1600,
+          "widths": [
+            560,
+            1000
+          ],
+          "color": "#080808"
+        },
+        {
+          "base": "l02-lightbang-mosquito-lamp/slice-07",
+          "width": 1000,
+          "height": 1600,
+          "widths": [
+            560,
+            1000
+          ],
+          "color": "#383838"
+        },
+        {
+          "base": "l02-lightbang-mosquito-lamp/slice-08",
+          "width": 1000,
+          "height": 1600,
+          "widths": [
+            560,
+            1000
+          ],
+          "color": "#181818"
+        },
+        {
+          "base": "l02-lightbang-mosquito-lamp/slice-09",
+          "width": 1000,
+          "height": 382,
+          "widths": [
+            560,
+            1000
+          ],
+          "color": "#985828"
+        }
+      ],
+      "page": {
+        "width": 1000,
+        "height": 13182
+      }
+    }
+  },
+  "l03-premium-coffee-grinder": {
+    "key": "images-v2|1328723-1794460877478",
+    "entry": {
+      "cover": {
+        "base": "l03-premium-coffee-grinder/cover",
+        "width": 960,
+        "height": 1200,
+        "widths": [
+          480,
+          960
+        ],
+        "color": "#584838"
+      },
+      "slices": [
+        {
+          "base": "l03-premium-coffee-grinder/slice-01",
+          "width": 1000,
+          "height": 1600,
+          "widths": [
+            560,
+            1000
+          ],
+          "color": "#584838"
+        },
+        {
+          "base": "l03-premium-coffee-grinder/slice-02",
+          "width": 1000,
+          "height": 1600,
+          "widths": [
+            560,
+            1000
+          ],
+          "color": "#d8c8c8"
+        },
+        {
+          "base": "l03-premium-coffee-grinder/slice-03",
+          "width": 1000,
+          "height": 1600,
+          "widths": [
+            560,
+            1000
+          ],
+          "color": "#d8c8c8"
+        },
+        {
+          "base": "l03-premium-coffee-grinder/slice-04",
+          "width": 1000,
+          "height": 1600,
+          "widths": [
+            560,
+            1000
+          ],
+          "color": "#f8f8f8"
+        },
+        {
+          "base": "l03-premium-coffee-grinder/slice-05",
+          "width": 1000,
+          "height": 1600,
+          "widths": [
+            560,
+            1000
+          ],
+          "color": "#d8c8c8"
+        },
+        {
+          "base": "l03-premium-coffee-grinder/slice-06",
+          "width": 1000,
+          "height": 1600,
+          "widths": [
+            560,
+            1000
+          ],
+          "color": "#e8e8e8"
+        },
+        {
+          "base": "l03-premium-coffee-grinder/slice-07",
+          "width": 1000,
+          "height": 1600,
+          "widths": [
+            560,
+            1000
+          ],
+          "color": "#d8c8c8"
+        },
+        {
+          "base": "l03-premium-coffee-grinder/slice-08",
+          "width": 1000,
+          "height": 1600,
+          "widths": [
+            560,
+            1000
+          ],
+          "color": "#d8c8c8"
+        },
+        {
+          "base": "l03-premium-coffee-grinder/slice-09",
+          "width": 1000,
+          "height": 1600,
+          "widths": [
+            560,
+            1000
+          ],
+          "color": "#d8c8c8"
+        },
+        {
+          "base": "l03-premium-coffee-grinder/slice-10",
+          "width": 1000,
+          "height": 41,
+          "widths": [
+            560,
+            1000
+          ],
+          "color": "#d8c8c8"
+        }
+      ],
+      "page": {
+        "width": 1000,
+        "height": 14441
+      }
+    }
+  },
+  "l04-lumi-wax-warmer-lamp": {
+    "key": "images-v2|1869932-1794460884981",
+    "entry": {
+      "cover": {
+        "base": "l04-lumi-wax-warmer-lamp/cover",
+        "width": 960,
+        "height": 1200,
+        "widths": [
+          480,
+          960
+        ],
+        "color": "#382828"
+      },
+      "slices": [
+        {
+          "base": "l04-lumi-wax-warmer-lamp/slice-01",
+          "width": 1000,
+          "height": 1600,
+          "widths": [
+            560,
+            1000
+          ],
+          "color": "#f8e8d8"
+        },
+        {
+          "base": "l04-lumi-wax-warmer-lamp/slice-02",
+          "width": 1000,
+          "height": 1600,
+          "widths": [
+            560,
+            1000
+          ],
+          "color": "#f8e8d8"
+        },
+        {
+          "base": "l04-lumi-wax-warmer-lamp/slice-03",
+          "width": 1000,
+          "height": 1600,
+          "widths": [
+            560,
+            1000
+          ],
+          "color": "#f8e8d8"
+        },
+        {
+          "base": "l04-lumi-wax-warmer-lamp/slice-04",
+          "width": 1000,
+          "height": 1600,
+          "widths": [
+            560,
+            1000
+          ],
+          "color": "#f8e8d8"
+        },
+        {
+          "base": "l04-lumi-wax-warmer-lamp/slice-05",
+          "width": 1000,
+          "height": 1600,
+          "widths": [
+            560,
+            1000
+          ],
+          "color": "#e8e8d8"
+        },
+        {
+          "base": "l04-lumi-wax-warmer-lamp/slice-06",
+          "width": 1000,
+          "height": 1600,
+          "widths": [
+            560,
+            1000
+          ],
+          "color": "#f8e8d8"
+        },
+        {
+          "base": "l04-lumi-wax-warmer-lamp/slice-07",
+          "width": 1000,
+          "height": 348,
+          "widths": [
+            560,
+            1000
+          ],
+          "color": "#f8e8d8"
+        }
+      ],
+      "page": {
+        "width": 1000,
+        "height": 9948
+      }
+    }
+  },
+  "l05-suncase-uv-clothes-dryer": {
+    "key": "images-v2|1062782-1794460875461",
+    "entry": {
+      "cover": {
+        "base": "l05-suncase-uv-clothes-dryer/cover",
+        "width": 960,
+        "height": 1200,
+        "widths": [
+          480,
+          960
+        ],
+        "color": "#f8f8f8"
+      },
+      "slices": [
+        {
+          "base": "l05-suncase-uv-clothes-dryer/slice-01",
+          "width": 1000,
+          "height": 1600,
+          "widths": [
+            560,
+            1000
+          ],
+          "color": "#f8f8f8"
+        },
+        {
+          "base": "l05-suncase-uv-clothes-dryer/slice-02",
+          "width": 1000,
+          "height": 1600,
+          "widths": [
+            560,
+            1000
+          ],
+          "color": "#e8d8d8"
+        },
+        {
+          "base": "l05-suncase-uv-clothes-dryer/slice-03",
+          "width": 1000,
+          "height": 1600,
+          "widths": [
+            560,
+            1000
+          ],
+          "color": "#e8e8d8"
+        },
+        {
+          "base": "l05-suncase-uv-clothes-dryer/slice-04",
+          "width": 1000,
+          "height": 1600,
+          "widths": [
+            560,
+            1000
+          ],
+          "color": "#e8d8d8"
+        },
+        {
+          "base": "l05-suncase-uv-clothes-dryer/slice-05",
+          "width": 1000,
+          "height": 1600,
+          "widths": [
+            560,
+            1000
+          ],
+          "color": "#e8e8d8"
+        },
+        {
+          "base": "l05-suncase-uv-clothes-dryer/slice-06",
+          "width": 1000,
+          "height": 1600,
+          "widths": [
+            560,
+            1000
+          ],
+          "color": "#e8d8d8"
+        },
+        {
+          "base": "l05-suncase-uv-clothes-dryer/slice-07",
+          "width": 1000,
+          "height": 998,
+          "widths": [
+            560,
+            1000
+          ],
+          "color": "#d8d8c8"
+        }
+      ],
+      "page": {
+        "width": 1000,
+        "height": 10598
+      }
+    }
+  },
+  "l06-noble-travel-shaver": {
+    "key": "images-v2|1350594-1794460883159",
+    "entry": {
+      "cover": {
+        "base": "l06-noble-travel-shaver/cover",
+        "width": 960,
+        "height": 1200,
+        "widths": [
+          480,
+          960
+        ],
+        "color": "#181818"
+      },
+      "slices": [
+        {
+          "base": "l06-noble-travel-shaver/slice-01",
+          "width": 1000,
+          "height": 1600,
+          "widths": [
+            560,
+            1000
+          ],
+          "color": "#181818"
+        },
+        {
+          "base": "l06-noble-travel-shaver/slice-02",
+          "width": 1000,
+          "height": 1600,
+          "widths": [
+            560,
+            1000
+          ],
+          "color": "#282828"
+        },
+        {
+          "base": "l06-noble-travel-shaver/slice-03",
+          "width": 1000,
+          "height": 1600,
+          "widths": [
+            560,
+            1000
+          ],
+          "color": "#e8e8e8"
+        },
+        {
+          "base": "l06-noble-travel-shaver/slice-04",
+          "width": 1000,
+          "height": 1600,
+          "widths": [
+            560,
+            1000
+          ],
+          "color": "#080808"
+        },
+        {
+          "base": "l06-noble-travel-shaver/slice-05",
+          "width": 1000,
+          "height": 1600,
+          "widths": [
+            560,
+            1000
+          ],
+          "color": "#e8e8e8"
+        },
+        {
+          "base": "l06-noble-travel-shaver/slice-06",
+          "width": 1000,
+          "height": 1600,
+          "widths": [
+            560,
+            1000
+          ],
+          "color": "#e8e8e8"
+        },
+        {
+          "base": "l06-noble-travel-shaver/slice-07",
+          "width": 1000,
+          "height": 1600,
+          "widths": [
+            560,
+            1000
+          ],
+          "color": "#d8d8d8"
+        },
+        {
+          "base": "l06-noble-travel-shaver/slice-08",
+          "width": 1000,
+          "height": 1322,
+          "widths": [
+            560,
+            1000
+          ],
+          "color": "#181818"
+        }
+      ],
+      "page": {
+        "width": 1000,
+        "height": 12522
+      }
+    }
+  },
+  "s01-pinkoi-header-banners": {
+    "key": "images-v2|51693-1794460733810,40683-1794460734999,69381-1794460736566,70452-1794460737101,58285-1794460737317,76511-1794460738405,53516-1794460738154,75054-1794460739184,71874-1794460739964,74790-1794460734548,84600-1794460735838,72418-1794460735654",
+    "entry": {
+      "images": [
+        {
+          "base": "s01-pinkoi-header-banners/01",
+          "width": 1200,
+          "height": 246,
+          "widths": [
+            480,
+            960,
+            1200
+          ],
+          "color": "#286898"
+        },
+        {
+          "base": "s01-pinkoi-header-banners/02",
+          "width": 1200,
+          "height": 246,
+          "widths": [
+            480,
+            960,
+            1200
+          ],
+          "color": "#585858"
+        },
+        {
+          "base": "s01-pinkoi-header-banners/03",
+          "width": 1200,
+          "height": 246,
+          "widths": [
+            480,
+            960,
+            1200
+          ],
+          "color": "#383838"
+        },
+        {
+          "base": "s01-pinkoi-header-banners/04",
+          "width": 1200,
+          "height": 246,
+          "widths": [
+            480,
+            960,
+            1200
+          ],
+          "color": "#f8f8f8"
+        },
+        {
+          "base": "s01-pinkoi-header-banners/05",
+          "width": 1200,
+          "height": 246,
+          "widths": [
+            480,
+            960,
+            1200
+          ],
+          "color": "#181828"
+        },
+        {
+          "base": "s01-pinkoi-header-banners/06",
+          "width": 1200,
+          "height": 246,
+          "widths": [
+            480,
+            960,
+            1200
+          ],
+          "color": "#d8e8e8"
+        },
+        {
+          "base": "s01-pinkoi-header-banners/07",
+          "width": 1200,
+          "height": 246,
+          "widths": [
+            480,
+            960,
+            1200
+          ],
+          "color": "#d8d8d8"
+        },
+        {
+          "base": "s01-pinkoi-header-banners/08",
+          "width": 1200,
+          "height": 246,
+          "widths": [
+            480,
+            960,
+            1200
+          ],
+          "color": "#0888d8"
+        },
+        {
+          "base": "s01-pinkoi-header-banners/09",
+          "width": 1200,
+          "height": 246,
+          "widths": [
+            480,
+            960,
+            1200
+          ],
+          "color": "#f8f8f8"
+        },
+        {
+          "base": "s01-pinkoi-header-banners/10",
+          "width": 1200,
+          "height": 246,
+          "widths": [
+            480,
+            960,
+            1200
+          ],
+          "color": "#f8f8f8"
+        },
+        {
+          "base": "s01-pinkoi-header-banners/11",
+          "width": 1200,
+          "height": 246,
+          "widths": [
+            480,
+            960,
+            1200
+          ],
+          "color": "#f8f8f8"
+        },
+        {
+          "base": "s01-pinkoi-header-banners/12",
+          "width": 1200,
+          "height": 246,
+          "widths": [
+            480,
+            960,
+            1200
+          ],
+          "color": "#f8f8f8"
+        }
+      ]
+    }
+  },
+  "s02-social-posts": {
+    "key": "images-v2|122711-1794460741546,160842-1794460743398,160963-1794460744299,149682-1794460744437,119068-1794460745343,153566-1794460745865,1542766-1794460767143,160469-1794460748109,202951-1794460749902,169709-1794460743411",
+    "entry": {
+      "images": [
+        {
+          "base": "s02-social-posts/01",
+          "width": 1080,
+          "height": 1350,
+          "widths": [
+            480,
+            960,
+            1080
+          ],
+          "color": "#d8d8c8"
+        },
+        {
+          "base": "s02-social-posts/02",
+          "width": 1080,
+          "height": 1350,
+          "widths": [
+            480,
+            960,
+            1080
+          ],
+          "color": "#c8a888"
+        },
+        {
+          "base": "s02-social-posts/03",
+          "width": 1080,
+          "height": 1350,
+          "widths": [
+            480,
+            960,
+            1080
+          ],
+          "color": "#d8d8c8"
+        },
+        {
+          "base": "s02-social-posts/04",
+          "width": 1080,
+          "height": 1350,
+          "widths": [
+            480,
+            960,
+            1080
+          ],
+          "color": "#d8d8c8"
+        },
+        {
+          "base": "s02-social-posts/05",
+          "width": 1080,
+          "height": 1350,
+          "widths": [
+            480,
+            960,
+            1080
+          ],
+          "color": "#e8e8e8"
+        },
+        {
+          "base": "s02-social-posts/06",
+          "width": 1080,
+          "height": 1350,
+          "widths": [
+            480,
+            960,
+            1080
+          ],
+          "color": "#f8f8f8"
+        },
+        {
+          "base": "s02-social-posts/07",
+          "width": 1080,
+          "height": 1350,
+          "widths": [
+            480,
+            960,
+            1080
+          ],
+          "color": "#d8d8d8"
+        },
+        {
+          "base": "s02-social-posts/08",
+          "width": 1080,
+          "height": 1350,
+          "widths": [
+            480,
+            960,
+            1080
+          ],
+          "color": "#f8f8f8"
+        },
+        {
+          "base": "s02-social-posts/09",
+          "width": 1080,
+          "height": 1350,
+          "widths": [
+            480,
+            960,
+            1080
+          ],
+          "color": "#989898"
+        },
+        {
+          "base": "s02-social-posts/10",
+          "width": 1080,
+          "height": 1350,
+          "widths": [
+            480,
+            960,
+            1080
+          ],
+          "color": "#d8c8b8"
+        }
+      ]
+    }
+  },
+  "s03-2025-new-year-cards": {
+    "key": "images-v2|135563-1794460749019,139728-1794460750161",
+    "entry": {
+      "images": [
+        {
+          "base": "s03-2025-new-year-cards/01",
+          "width": 1000,
+          "height": 1000,
+          "widths": [
+            480,
+            960,
+            1000
+          ],
+          "color": "#a80818"
+        },
+        {
+          "base": "s03-2025-new-year-cards/02",
+          "width": 1000,
+          "height": 1000,
+          "widths": [
+            480,
+            960,
+            1000
+          ],
+          "color": "#a80818"
+        }
+      ]
+    }
+  },
+  "b01-black-friday-gifts": {
+    "key": "images-v2|350081-1794460760069,512109-1794460761944,349497-1794460761410",
+    "entry": {
+      "images": [
+        {
+          "base": "b01-black-friday-gifts/01",
+          "width": 1600,
+          "height": 1000,
+          "widths": [
+            480,
+            960,
+            1600
+          ],
+          "color": "#382858"
+        },
+        {
+          "base": "b01-black-friday-gifts/02",
+          "width": 1600,
+          "height": 1600,
+          "widths": [
+            480,
+            960,
+            1600
+          ],
+          "color": "#281848"
+        },
+        {
+          "base": "b01-black-friday-gifts/03",
+          "width": 1080,
+          "height": 1920,
+          "widths": [
+            480,
+            960,
+            1080
+          ],
+          "color": "#281848"
+        }
+      ]
+    }
+  },
+  "b02-black-friday-bonus": {
+    "key": "images-v2|270665-1794460782821,358343-1794460783845,239132-1794460783042",
+    "entry": {
+      "images": [
+        {
+          "base": "b02-black-friday-bonus/01",
+          "width": 1600,
+          "height": 1000,
+          "widths": [
+            480,
+            960,
+            1600
+          ],
+          "color": "#080828"
+        },
+        {
+          "base": "b02-black-friday-bonus/02",
+          "width": 1600,
+          "height": 1600,
+          "widths": [
+            480,
+            960,
+            1600
+          ],
+          "color": "#080838"
+        },
+        {
+          "base": "b02-black-friday-bonus/03",
+          "width": 1080,
+          "height": 1920,
+          "widths": [
+            480,
+            960,
+            1080
+          ],
+          "color": "#281848"
+        }
+      ]
+    }
+  },
+  "b03-1111-sale": {
+    "key": "images-v2|168411-1794460827756,193149-1794460828195,302706-1794460831682",
+    "entry": {
+      "images": [
+        {
+          "base": "b03-1111-sale/01",
+          "width": 1600,
+          "height": 467,
+          "widths": [
+            480,
+            960,
+            1600
+          ],
+          "color": "#080818"
+        },
+        {
+          "base": "b03-1111-sale/02",
+          "width": 1080,
+          "height": 1080,
+          "widths": [
+            480,
+            960,
+            1080
+          ],
+          "color": "#080818"
+        },
+        {
+          "base": "b03-1111-sale/03",
+          "width": 1080,
+          "height": 1920,
+          "widths": [
+            480,
+            960,
+            1080
+          ],
+          "color": "#080818"
+        }
+      ]
+    }
+  },
+  "b04-618-mid-year": {
+    "key": "images-v2|63188-1794460840367,56265-1794460840641,63401-1794460841305",
+    "entry": {
+      "images": [
+        {
+          "base": "b04-618-mid-year/01",
+          "width": 1000,
+          "height": 300,
+          "widths": [
+            480,
+            960,
+            1000
+          ],
+          "color": "#081828"
+        },
+        {
+          "base": "b04-618-mid-year/02",
+          "width": 818,
+          "height": 370,
+          "widths": [
+            480,
+            818
+          ],
+          "color": "#081828"
+        },
+        {
+          "base": "b04-618-mid-year/03",
+          "width": 852,
+          "height": 426,
+          "widths": [
+            480,
+            852
+          ],
+          "color": "#081828"
+        }
+      ]
+    }
+  },
+  "b05-3c-it-month": {
+    "key": "images-v2|184413-1794460845136,217171-1794460846088,332639-1794460846866",
+    "entry": {
+      "images": [
+        {
+          "base": "b05-3c-it-month/01",
+          "width": 1600,
+          "height": 467,
+          "widths": [
+            480,
+            960,
+            1600
+          ],
+          "color": "#080818"
+        },
+        {
+          "base": "b05-3c-it-month/02",
+          "width": 1080,
+          "height": 1080,
+          "widths": [
+            480,
+            960,
+            1080
+          ],
+          "color": "#081828"
+        },
+        {
+          "base": "b05-3c-it-month/03",
+          "width": 1080,
+          "height": 1920,
+          "widths": [
+            480,
+            960,
+            1080
+          ],
+          "color": "#081828"
+        }
+      ]
+    }
+  },
+  "b06-halloween-party": {
+    "key": "images-v2|189268-1794460846415,188941-1794460847271,280103-1794460850020",
+    "entry": {
+      "images": [
+        {
+          "base": "b06-halloween-party/01",
+          "width": 1600,
+          "height": 467,
+          "widths": [
+            480,
+            960,
+            1600
+          ],
+          "color": "#481878"
+        },
+        {
+          "base": "b06-halloween-party/02",
+          "width": 1080,
+          "height": 1080,
+          "widths": [
+            480,
+            960,
+            1080
+          ],
+          "color": "#280848"
+        },
+        {
+          "base": "b06-halloween-party/03",
+          "width": 1080,
+          "height": 1920,
+          "widths": [
+            480,
+            960,
+            1080
+          ],
+          "color": "#481878"
+        }
+      ]
+    }
+  },
+  "b07-chill-travel": {
+    "key": "images-v2|1125329-1794460861838,702349-1794460856329,562968-1794460855395",
+    "entry": {
+      "images": [
+        {
+          "base": "b07-chill-travel/01",
+          "width": 1600,
+          "height": 467,
+          "widths": [
+            480,
+            960,
+            1600
+          ],
+          "color": "#182838"
+        },
+        {
+          "base": "b07-chill-travel/02",
+          "width": 1600,
+          "height": 1600,
+          "widths": [
+            480,
+            960,
+            1600
+          ],
+          "color": "#183848"
+        },
+        {
+          "base": "b07-chill-travel/03",
+          "width": 1600,
+          "height": 2844,
+          "widths": [
+            480,
+            960,
+            1600
+          ],
+          "color": "#082828"
+        }
+      ]
+    }
+  },
+  "b08-54w-car-charger-air-purifier": {
+    "key": "images-v2|98264-1794460850192,201556-1794460851513,262642-1794460854993",
+    "entry": {
+      "images": [
+        {
+          "base": "b08-54w-car-charger-air-purifier/01",
+          "width": 1080,
+          "height": 540,
+          "widths": [
+            480,
+            960,
+            1080
+          ],
+          "color": "#080808"
+        },
+        {
+          "base": "b08-54w-car-charger-air-purifier/02",
+          "width": 1080,
+          "height": 1465,
+          "widths": [
+            480,
+            960,
+            1080
+          ],
+          "color": "#080808"
+        },
+        {
+          "base": "b08-54w-car-charger-air-purifier/03",
+          "width": 1080,
+          "height": 1920,
+          "widths": [
+            480,
+            960,
+            1080
+          ],
+          "color": "#080808"
+        }
+      ]
+    }
+  },
+  "b09-noble-travel-shaver": {
+    "key": "images-v2|94352-1794460852690,49849-1794460853628,115771-1794460855555",
+    "entry": {
+      "images": [
+        {
+          "base": "b09-noble-travel-shaver/01",
+          "width": 1080,
+          "height": 1465,
+          "widths": [
+            480,
+            960,
+            1080
+          ],
+          "color": "#080808"
+        },
+        {
+          "base": "b09-noble-travel-shaver/02",
+          "width": 1080,
+          "height": 540,
+          "widths": [
+            480,
+            960,
+            1080
+          ],
+          "color": "#080808"
+        },
+        {
+          "base": "b09-noble-travel-shaver/03",
+          "width": 1080,
+          "height": 1920,
+          "widths": [
+            480,
+            960,
+            1080
+          ],
+          "color": "#080808"
+        }
+      ]
+    }
+  },
+  "b10-air-fryer-oven-restock": {
+    "key": "images-v2|203985-1794460761049,345163-1794460762519,198268-1794460762205",
+    "entry": {
+      "images": [
+        {
+          "base": "b10-air-fryer-oven-restock/01",
+          "width": 1080,
+          "height": 1080,
+          "widths": [
+            480,
+            960,
+            1080
+          ],
+          "color": "#184868"
+        },
+        {
+          "base": "b10-air-fryer-oven-restock/02",
+          "width": 1080,
+          "height": 1920,
+          "widths": [
+            480,
+            960,
+            1080
+          ],
+          "color": "#183868"
+        },
+        {
+          "base": "b10-air-fryer-oven-restock/03",
+          "width": 1600,
+          "height": 467,
+          "widths": [
+            480,
+            960,
+            1600
+          ],
+          "color": "#184868"
+        }
+      ]
+    }
+  },
+  "b11-double-11": {
+    "key": "images-v2|145768-1794460762266,161765-1794460762490,224200-1794460766792",
+    "entry": {
+      "images": [
+        {
+          "base": "b11-double-11/01",
+          "width": 1600,
+          "height": 467,
+          "widths": [
+            480,
+            960,
+            1600
+          ],
+          "color": "#4898c8"
+        },
+        {
+          "base": "b11-double-11/02",
+          "width": 1080,
+          "height": 1080,
+          "widths": [
+            480,
+            960,
+            1080
+          ],
+          "color": "#4898c8"
+        },
+        {
+          "base": "b11-double-11/03",
+          "width": 1080,
+          "height": 1920,
+          "widths": [
+            480,
+            960,
+            1080
+          ],
+          "color": "#68a8d8"
+        }
+      ]
+    }
+  },
+  "b12-99-shopping-festival": {
+    "key": "images-v2|313436-1794460767753,215922-1794460767216,198448-1794460767277",
+    "entry": {
+      "images": [
+        {
+          "base": "b12-99-shopping-festival/01",
+          "width": 1080,
+          "height": 1920,
+          "widths": [
+            480,
+            960,
+            1080
+          ],
+          "color": "#e80818"
+        },
+        {
+          "base": "b12-99-shopping-festival/02",
+          "width": 1080,
+          "height": 1080,
+          "widths": [
+            480,
+            960,
+            1080
+          ],
+          "color": "#e80818"
+        },
+        {
+          "base": "b12-99-shopping-festival/03",
+          "width": 1600,
+          "height": 467,
+          "widths": [
+            480,
+            960,
+            1600
+          ],
+          "color": "#e80818"
+        }
+      ]
+    }
+  },
+  "b13-99-rewards": {
+    "key": "images-v2|159537-1794460766736,166656-1794460769595,304142-1794460772753",
+    "entry": {
+      "images": [
+        {
+          "base": "b13-99-rewards/01",
+          "width": 1600,
+          "height": 467,
+          "widths": [
+            480,
+            960,
+            1600
+          ],
+          "color": "#780808"
+        },
+        {
+          "base": "b13-99-rewards/02",
+          "width": 1080,
+          "height": 1080,
+          "widths": [
+            480,
+            960,
+            1080
+          ],
+          "color": "#680808"
+        },
+        {
+          "base": "b13-99-rewards/03",
+          "width": 1080,
+          "height": 1920,
+          "widths": [
+            480,
+            960,
+            1080
+          ],
+          "color": "#780808"
+        }
+      ]
+    }
+  },
+  "b14-summer-new-arrivals": {
+    "key": "images-v2|161782-1794460771315,164845-1794460771224,220377-1794460772957",
+    "entry": {
+      "images": [
+        {
+          "base": "b14-summer-new-arrivals/01",
+          "width": 1600,
+          "height": 467,
+          "widths": [
+            480,
+            960,
+            1600
+          ],
+          "color": "#f8f8f8"
+        },
+        {
+          "base": "b14-summer-new-arrivals/02",
+          "width": 1080,
+          "height": 1080,
+          "widths": [
+            480,
+            960,
+            1080
+          ],
+          "color": "#f8f8f8"
+        },
+        {
+          "base": "b14-summer-new-arrivals/03",
+          "width": 1080,
+          "height": 1920,
+          "widths": [
+            480,
+            960,
+            1080
+          ],
+          "color": "#f8f8f8"
+        }
+      ]
+    }
+  },
+  "b15-cool-summer-breeze": {
+    "key": "images-v2|203760-1794460772343,137317-1794460772780,147291-1794460773687",
+    "entry": {
+      "images": [
+        {
+          "base": "b15-cool-summer-breeze/01",
+          "width": 1080,
+          "height": 1920,
+          "widths": [
+            480,
+            960,
+            1080
+          ],
+          "color": "#0888d8"
+        },
+        {
+          "base": "b15-cool-summer-breeze/02",
+          "width": 1080,
+          "height": 1080,
+          "widths": [
+            480,
+            960,
+            1080
+          ],
+          "color": "#0898e8"
+        },
+        {
+          "base": "b15-cool-summer-breeze/03",
+          "width": 1600,
+          "height": 467,
+          "widths": [
+            480,
+            960,
+            1600
+          ],
+          "color": "#48b8e8"
+        }
+      ]
+    }
+  },
+  "b16-beat-the-heat": {
+    "key": "images-v2|138269-1794460773543,137882-1794460774085,209651-1794460776988",
+    "entry": {
+      "images": [
+        {
+          "base": "b16-beat-the-heat/01",
+          "width": 1600,
+          "height": 467,
+          "widths": [
+            480,
+            960,
+            1600
+          ],
+          "color": "#08a8f8"
+        },
+        {
+          "base": "b16-beat-the-heat/02",
+          "width": 1080,
+          "height": 1080,
+          "widths": [
+            480,
+            960,
+            1080
+          ],
+          "color": "#0888f8"
+        },
+        {
+          "base": "b16-beat-the-heat/03",
+          "width": 1080,
+          "height": 1920,
+          "widths": [
+            480,
+            960,
+            1080
+          ],
+          "color": "#0898f8"
+        }
+      ]
+    }
+  },
+  "b17-cool-summer": {
+    "key": "images-v2|61480-1794460774673,114848-1794460776016,144663-1794460777078",
+    "entry": {
+      "images": [
+        {
+          "base": "b17-cool-summer/01",
+          "width": 1080,
+          "height": 540,
+          "widths": [
+            480,
+            960,
+            1080
+          ],
+          "color": "#88c8f8"
+        },
+        {
+          "base": "b17-cool-summer/02",
+          "width": 1080,
+          "height": 1465,
+          "widths": [
+            480,
+            960,
+            1080
+          ],
+          "color": "#88c8f8"
+        },
+        {
+          "base": "b17-cool-summer/03",
+          "width": 1080,
+          "height": 1920,
+          "widths": [
+            480,
+            960,
+            1080
+          ],
+          "color": "#88c8f8"
+        }
+      ]
+    }
+  },
+  "b18-summer-hydration": {
+    "key": "images-v2|69190-1794460776316,70795-1794460776814,80232-1794460777183",
+    "entry": {
+      "images": [
+        {
+          "base": "b18-summer-hydration/01",
+          "width": 1000,
+          "height": 300,
+          "widths": [
+            480,
+            960,
+            1000
+          ],
+          "color": "#f8f8f8"
+        },
+        {
+          "base": "b18-summer-hydration/02",
+          "width": 818,
+          "height": 370,
+          "widths": [
+            480,
+            818
+          ],
+          "color": "#d8d8d8"
+        },
+        {
+          "base": "b18-summer-hydration/03",
+          "width": 852,
+          "height": 426,
+          "widths": [
+            480,
+            852
+          ],
+          "color": "#d8d8d8"
+        }
+      ]
+    }
+  },
+  "b19-summer-carnival": {
+    "key": "images-v2|61203-1794460777565,65767-1794460777913,58617-1794460778389",
+    "entry": {
+      "images": [
+        {
+          "base": "b19-summer-carnival/01",
+          "width": 818,
+          "height": 370,
+          "widths": [
+            480,
+            818
+          ],
+          "color": "#0898d8"
+        },
+        {
+          "base": "b19-summer-carnival/02",
+          "width": 852,
+          "height": 426,
+          "widths": [
+            480,
+            852
+          ],
+          "color": "#f8f8f8"
+        },
+        {
+          "base": "b19-summer-carnival/03",
+          "width": 1000,
+          "height": 300,
+          "widths": [
+            480,
+            960,
+            1000
+          ],
+          "color": "#f8f8f8"
+        }
+      ]
+    }
+  },
+  "b20": {
+    "key": "images-v2|248679-1794460783505,394264-1794460790427,65780-1794460786580,76598-1794460786911,129216-1794460787661,180433-1794460789415,149392-1794460789809,74780-1794460788961,58518-1794460789197,22909-1794460779890,144764-1794460782540,104975-1794460783336,29806-1794460783999,54485-1794460784385,206055-1794460786499,79175-1794460785923",
+    "entry": {
+      "images": [
+        {
+          "base": "b20/01",
+          "width": 1080,
+          "height": 1920,
+          "widths": [
+            480,
+            960,
+            1080
+          ],
+          "color": "#38b8e8"
+        },
+        {
+          "base": "b20/02",
+          "width": 1600,
+          "height": 2392,
+          "widths": [
+            480,
+            960,
+            1600
+          ],
+          "color": "#28a8e8"
+        },
+        {
+          "base": "b20/03",
+          "width": 1280,
+          "height": 246,
+          "widths": [
+            480,
+            960,
+            1280
+          ],
+          "color": "#38b8e8"
+        },
+        {
+          "base": "b20/04",
+          "width": 1280,
+          "height": 350,
+          "widths": [
+            480,
+            960,
+            1280
+          ],
+          "color": "#28a8e8"
+        },
+        {
+          "base": "b20/05",
+          "width": 1280,
+          "height": 640,
+          "widths": [
+            480,
+            960,
+            1280
+          ],
+          "color": "#28a8e8"
+        },
+        {
+          "base": "b20/06",
+          "width": 1080,
+          "height": 1080,
+          "widths": [
+            480,
+            960,
+            1080
+          ],
+          "color": "#28a8e8"
+        },
+        {
+          "base": "b20/07",
+          "width": 1600,
+          "height": 467,
+          "widths": [
+            480,
+            960,
+            1600
+          ],
+          "color": "#38b8e8"
+        },
+        {
+          "base": "b20/08",
+          "width": 1260,
+          "height": 320,
+          "widths": [
+            480,
+            960,
+            1260
+          ],
+          "color": "#28a8e8"
+        },
+        {
+          "base": "b20/09",
+          "width": 1260,
+          "height": 320,
+          "widths": [
+            480,
+            960,
+            1260
+          ],
+          "color": "#38b8e8"
+        },
+        {
+          "base": "b20/10",
+          "width": 1260,
+          "height": 65,
+          "widths": [
+            480,
+            960,
+            1260
+          ],
+          "color": "#38b8e8"
+        },
+        {
+          "base": "b20/11",
+          "width": 1600,
+          "height": 400,
+          "widths": [
+            480,
+            960,
+            1600
+          ],
+          "color": "#38b8e8"
+        },
+        {
+          "base": "b20/12",
+          "width": 630,
+          "height": 940,
+          "widths": [
+            480,
+            630
+          ],
+          "color": "#38b8e8"
+        },
+        {
+          "base": "b20/13",
+          "width": 640,
+          "height": 145,
+          "widths": [
+            480,
+            640
+          ],
+          "color": "#38b8e8"
+        },
+        {
+          "base": "b20/14",
+          "width": 750,
+          "height": 328,
+          "widths": [
+            480,
+            750
+          ],
+          "color": "#38b8e8"
+        },
+        {
+          "base": "b20/15",
+          "width": 1200,
+          "height": 1200,
+          "widths": [
+            480,
+            960,
+            1200
+          ],
+          "color": "#28a8e8"
+        },
+        {
+          "base": "b20/16",
+          "width": 870,
+          "height": 500,
+          "widths": [
+            480,
+            870
+          ],
+          "color": "#38b8e8"
+        }
+      ]
+    }
+  },
+  "b21-fucoidan-drink": {
+    "key": "images-v2|239468-1794460791160,92910-1794460791119,192828-1794460793040",
+    "entry": {
+      "images": [
+        {
+          "base": "b21-fucoidan-drink/01",
+          "width": 1080,
+          "height": 1920,
+          "widths": [
+            480,
+            960,
+            1080
+          ],
+          "color": "#3898c8"
+        },
+        {
+          "base": "b21-fucoidan-drink/02",
+          "width": 1080,
+          "height": 540,
+          "widths": [
+            480,
+            960,
+            1080
+          ],
+          "color": "#3898c8"
+        },
+        {
+          "base": "b21-fucoidan-drink/03",
+          "width": 1080,
+          "height": 1465,
+          "widths": [
+            480,
+            960,
+            1080
+          ],
+          "color": "#3898c8"
+        }
+      ]
+    }
+  },
+  "b22-summer-sale": {
+    "key": "images-v2|242513-1794460793869,153972-1794460793446,149626-1794460794046",
+    "entry": {
+      "images": [
+        {
+          "base": "b22-summer-sale/01",
+          "width": 1080,
+          "height": 1920,
+          "widths": [
+            480,
+            960,
+            1080
+          ],
+          "color": "#2878a8"
+        },
+        {
+          "base": "b22-summer-sale/02",
+          "width": 1080,
+          "height": 1080,
+          "widths": [
+            480,
+            960,
+            1080
+          ],
+          "color": "#2878a8"
+        },
+        {
+          "base": "b22-summer-sale/03",
+          "width": 1600,
+          "height": 467,
+          "widths": [
+            480,
+            960,
+            1600
+          ],
+          "color": "#285888"
+        }
+      ]
+    }
+  },
+  "b23-summer-sale-2": {
+    "key": "images-v2|151634-1794460794269,197385-1794460815881",
+    "entry": {
+      "images": [
+        {
+          "base": "b23-summer-sale-2/01",
+          "width": 1600,
+          "height": 467,
+          "widths": [
+            480,
+            960,
+            1600
+          ],
+          "color": "#38b8d8"
+        },
+        {
+          "base": "b23-summer-sale-2/02",
+          "width": 1600,
+          "height": 897,
+          "widths": [
+            480,
+            960,
+            1600
+          ],
+          "color": "#38b8d8"
+        }
+      ]
+    }
+  },
+  "b24-fragrance-mist-launch": {
+    "key": "images-v2|346086-1794460818012,272277-1794460817067,252540-1794460816670",
+    "entry": {
+      "images": [
+        {
+          "base": "b24-fragrance-mist-launch/01",
+          "width": 1600,
+          "height": 1000,
+          "widths": [
+            480,
+            960,
+            1600
+          ],
+          "color": "#b88858"
+        },
+        {
+          "base": "b24-fragrance-mist-launch/02",
+          "width": 1600,
+          "height": 1600,
+          "widths": [
+            480,
+            960,
+            1600
+          ],
+          "color": "#b88858"
+        },
+        {
+          "base": "b24-fragrance-mist-launch/03",
+          "width": 1080,
+          "height": 1920,
+          "widths": [
+            480,
+            960,
+            1080
+          ],
+          "color": "#a87848"
+        }
+      ]
+    }
+  },
+  "b25-gift-for-you": {
+    "key": "images-v2|498788-1794460820399,505792-1794460820435,400649-1794460821882",
+    "entry": {
+      "images": [
+        {
+          "base": "b25-gift-for-you/01",
+          "width": 1600,
+          "height": 1000,
+          "widths": [
+            480,
+            960,
+            1600
+          ],
+          "color": "#c88858"
+        },
+        {
+          "base": "b25-gift-for-you/02",
+          "width": 1600,
+          "height": 1600,
+          "widths": [
+            480,
+            960,
+            1600
+          ],
+          "color": "#d89858"
+        },
+        {
+          "base": "b25-gift-for-you/03",
+          "width": 1080,
+          "height": 1920,
+          "widths": [
+            480,
+            960,
+            1080
+          ],
+          "color": "#d89858"
+        }
+      ]
+    }
+  },
+  "b26-silk-auto-hair-curler": {
+    "key": "images-v2|54489-1794460818844,126102-1794460820568,150816-1794460821378",
+    "entry": {
+      "images": [
+        {
+          "base": "b26-silk-auto-hair-curler/01",
+          "width": 1080,
+          "height": 540,
+          "widths": [
+            480,
+            960,
+            1080
+          ],
+          "color": "#e8e8d8"
+        },
+        {
+          "base": "b26-silk-auto-hair-curler/02",
+          "width": 1080,
+          "height": 1465,
+          "widths": [
+            480,
+            960,
+            1080
+          ],
+          "color": "#e8e8d8"
+        },
+        {
+          "base": "b26-silk-auto-hair-curler/03",
+          "width": 1080,
+          "height": 1920,
+          "widths": [
+            480,
+            960,
+            1080
+          ],
+          "color": "#e8e8d8"
+        }
+      ]
+    }
+  },
+  "b27-beauty-up-close": {
+    "key": "images-v2|74799-1794460821103,164967-1794460823679,185182-1794460824854,229076-1794460825729",
+    "entry": {
+      "images": [
+        {
+          "base": "b27-beauty-up-close/01",
+          "width": 1080,
+          "height": 540,
+          "widths": [
+            480,
+            960,
+            1080
+          ],
+          "color": "#e8c888"
+        },
+        {
+          "base": "b27-beauty-up-close/02",
+          "width": 1200,
+          "height": 1200,
+          "widths": [
+            480,
+            960,
+            1200
+          ],
+          "color": "#e8c888"
+        },
+        {
+          "base": "b27-beauty-up-close/03",
+          "width": 1080,
+          "height": 1466,
+          "widths": [
+            480,
+            960,
+            1080
+          ],
+          "color": "#e8c888"
+        },
+        {
+          "base": "b27-beauty-up-close/04",
+          "width": 1080,
+          "height": 1920,
+          "widths": [
+            480,
+            960,
+            1080
+          ],
+          "color": "#e8c878"
+        }
+      ]
+    }
+  },
+  "b28-rose-skincare-set": {
+    "key": "images-v2|300958-1794460827408,114445-1794460825180,220569-1794460826449",
+    "entry": {
+      "images": [
+        {
+          "base": "b28-rose-skincare-set/01",
+          "width": 1600,
+          "height": 1000,
+          "widths": [
+            480,
+            960,
+            1600
+          ],
+          "color": "#f8f8f8"
+        },
+        {
+          "base": "b28-rose-skincare-set/02",
+          "width": 1200,
+          "height": 628,
+          "widths": [
+            480,
+            960,
+            1200
+          ],
+          "color": "#f8f8f8"
+        },
+        {
+          "base": "b28-rose-skincare-set/03",
+          "width": 1600,
+          "height": 1600,
+          "widths": [
+            480,
+            960,
+            1600
+          ],
+          "color": "#f8f8f8"
+        }
+      ]
+    }
+  },
+  "b29-queens-festival": {
+    "key": "images-v2|119404-1794460827004,93229-1794460827067,119390-1794460827585",
+    "entry": {
+      "images": [
+        {
+          "base": "b29-queens-festival/01",
+          "width": 1080,
+          "height": 1920,
+          "widths": [
+            480,
+            960,
+            1080
+          ],
+          "color": "#f8f8f8"
+        },
+        {
+          "base": "b29-queens-festival/02",
+          "width": 1280,
+          "height": 1280,
+          "widths": [
+            480,
+            960,
+            1280
+          ],
+          "color": "#f8f8f8"
+        },
+        {
+          "base": "b29-queens-festival/03",
+          "width": 1080,
+          "height": 1920,
+          "widths": [
+            480,
+            960,
+            1080
+          ],
+          "color": "#f8f8f8"
+        }
+      ]
+    }
+  },
+  "b30-quick-dry-hair-care": {
+    "key": "images-v2|116677-1794460829123,108247-1794460830018,168768-1794460831410",
+    "entry": {
+      "images": [
+        {
+          "base": "b30-quick-dry-hair-care/01",
+          "width": 1600,
+          "height": 467,
+          "widths": [
+            480,
+            960,
+            1600
+          ],
+          "color": "#f8f8f8"
+        },
+        {
+          "base": "b30-quick-dry-hair-care/02",
+          "width": 1080,
+          "height": 1080,
+          "widths": [
+            480,
+            960,
+            1080
+          ],
+          "color": "#f8e8e8"
+        },
+        {
+          "base": "b30-quick-dry-hair-care/03",
+          "width": 1080,
+          "height": 1920,
+          "widths": [
+            480,
+            960,
+            1080
+          ],
+          "color": "#f8f8f8"
+        }
+      ]
+    }
+  },
+  "b31-microcurrent-beauty-device": {
+    "key": "images-v2|116239-1794460830801,140800-1794460831431",
+    "entry": {
+      "images": [
+        {
+          "base": "b31-microcurrent-beauty-device/01",
+          "width": 1600,
+          "height": 467,
+          "widths": [
+            480,
+            960,
+            1600
+          ],
+          "color": "#c8b8a8"
+        },
+        {
+          "base": "b31-microcurrent-beauty-device/02",
+          "width": 1280,
+          "height": 1280,
+          "widths": [
+            480,
+            960,
+            1280
+          ],
+          "color": "#c8b8a8"
+        }
+      ]
+    }
+  },
+  "b32-52-off-limited": {
+    "key": "images-v2|157443-1794460832249,215095-1794460832975",
+    "entry": {
+      "images": [
+        {
+          "base": "b32-52-off-limited/01",
+          "width": 1600,
+          "height": 467,
+          "widths": [
+            480,
+            960,
+            1600
+          ],
+          "color": "#484868"
+        },
+        {
+          "base": "b32-52-off-limited/02",
+          "width": 1280,
+          "height": 1280,
+          "widths": [
+            480,
+            960,
+            1280
+          ],
+          "color": "#484868"
+        }
+      ]
+    }
+  },
+  "b33-1111-shopping-festival": {
+    "key": "images-v2|56156-1794460832562,61411-1794460833323,66919-1794460833505",
+    "entry": {
+      "images": [
+        {
+          "base": "b33-1111-shopping-festival/01",
+          "width": 1000,
+          "height": 300,
+          "widths": [
+            480,
+            960,
+            1000
+          ],
+          "color": "#383838"
+        },
+        {
+          "base": "b33-1111-shopping-festival/02",
+          "width": 818,
+          "height": 370,
+          "widths": [
+            480,
+            818
+          ],
+          "color": "#383838"
+        },
+        {
+          "base": "b33-1111-shopping-festival/03",
+          "width": 852,
+          "height": 426,
+          "widths": [
+            480,
+            852
+          ],
+          "color": "#383838"
+        }
+      ]
+    }
+  },
+  "b34-mid-year-outing": {
+    "key": "images-v2|61492-1794460833535,56530-1794460833841,64699-1794460834267",
+    "entry": {
+      "images": [
+        {
+          "base": "b34-mid-year-outing/01",
+          "width": 1000,
+          "height": 300,
+          "widths": [
+            480,
+            960,
+            1000
+          ],
+          "color": "#282828"
+        },
+        {
+          "base": "b34-mid-year-outing/02",
+          "width": 818,
+          "height": 370,
+          "widths": [
+            480,
+            818
+          ],
+          "color": "#282828"
+        },
+        {
+          "base": "b34-mid-year-outing/03",
+          "width": 852,
+          "height": 426,
+          "widths": [
+            480,
+            852
+          ],
+          "color": "#282828"
+        }
+      ]
+    }
+  },
+  "b35-1111-power-bank": {
+    "key": "images-v2|66380-1794460834589,60786-1794460834880,69259-1794460835325",
+    "entry": {
+      "images": [
+        {
+          "base": "b35-1111-power-bank/01",
+          "width": 1000,
+          "height": 300,
+          "widths": [
+            480,
+            960,
+            1000
+          ],
+          "color": "#080808"
+        },
+        {
+          "base": "b35-1111-power-bank/02",
+          "width": 818,
+          "height": 370,
+          "widths": [
+            480,
+            818
+          ],
+          "color": "#080808"
+        },
+        {
+          "base": "b35-1111-power-bank/03",
+          "width": 852,
+          "height": 426,
+          "widths": [
+            480,
+            852
+          ],
+          "color": "#080808"
+        }
+      ]
+    }
+  },
+  "b36-choices-ice-cream-maker": {
+    "key": "images-v2|73144-1794460835667,139591-1794460836748,168578-1794460837631",
+    "entry": {
+      "images": [
+        {
+          "base": "b36-choices-ice-cream-maker/01",
+          "width": 1080,
+          "height": 540,
+          "widths": [
+            480,
+            960,
+            1080
+          ],
+          "color": "#f8a8b8"
+        },
+        {
+          "base": "b36-choices-ice-cream-maker/02",
+          "width": 1080,
+          "height": 1465,
+          "widths": [
+            480,
+            960,
+            1080
+          ],
+          "color": "#f8a8b8"
+        },
+        {
+          "base": "b36-choices-ice-cream-maker/03",
+          "width": 1080,
+          "height": 1920,
+          "widths": [
+            480,
+            960,
+            1080
+          ],
+          "color": "#f8a8b8"
+        }
+      ]
+    }
+  },
+  "b37-fathers-day-gifts": {
+    "key": "images-v2|73503-1794460836823,79184-1794460837291,83606-1794460837750",
+    "entry": {
+      "images": [
+        {
+          "base": "b37-fathers-day-gifts/01",
+          "width": 1000,
+          "height": 300,
+          "widths": [
+            480,
+            960,
+            1000
+          ],
+          "color": "#f8f8e8"
+        },
+        {
+          "base": "b37-fathers-day-gifts/02",
+          "width": 818,
+          "height": 370,
+          "widths": [
+            480,
+            818
+          ],
+          "color": "#38a8b8"
+        },
+        {
+          "base": "b37-fathers-day-gifts/03",
+          "width": 852,
+          "height": 426,
+          "widths": [
+            480,
+            852
+          ],
+          "color": "#2898b8"
+        }
+      ]
+    }
+  },
+  "b38-christmas-go-party": {
+    "key": "images-v2|160155-1794460838135,168499-1794460839909,253242-1794460841295",
+    "entry": {
+      "images": [
+        {
+          "base": "b38-christmas-go-party/01",
+          "width": 1600,
+          "height": 467,
+          "widths": [
+            480,
+            960,
+            1600
+          ],
+          "color": "#780818"
+        },
+        {
+          "base": "b38-christmas-go-party/02",
+          "width": 1080,
+          "height": 1080,
+          "widths": [
+            480,
+            960,
+            1080
+          ],
+          "color": "#780818"
+        },
+        {
+          "base": "b38-christmas-go-party/03",
+          "width": 1080,
+          "height": 1920,
+          "widths": [
+            480,
+            960,
+            1080
+          ],
+          "color": "#881828"
+        }
+      ]
+    }
+  },
+  "b39-boba-cat-teaser": {
+    "key": "images-v2|117082-1794460840614,183548-1794460841196",
+    "entry": {
+      "images": [
+        {
+          "base": "b39-boba-cat-teaser/01",
+          "width": 1600,
+          "height": 467,
+          "widths": [
+            480,
+            960,
+            1600
+          ],
+          "color": "#e89838"
+        },
+        {
+          "base": "b39-boba-cat-teaser/02",
+          "width": 1280,
+          "height": 1280,
+          "widths": [
+            480,
+            960,
+            1280
+          ],
+          "color": "#f8f8f8"
+        }
+      ]
+    }
+  },
+  "b40-world-cat-lovers-day": {
+    "key": "images-v2|177228-1794460842380,195802-1794460843834,287035-1794460845510",
+    "entry": {
+      "images": [
+        {
+          "base": "b40-world-cat-lovers-day/01",
+          "width": 1600,
+          "height": 467,
+          "widths": [
+            480,
+            960,
+            1600
+          ],
+          "color": "#f8e8d8"
+        },
+        {
+          "base": "b40-world-cat-lovers-day/02",
+          "width": 1080,
+          "height": 1080,
+          "widths": [
+            480,
+            960,
+            1080
+          ],
+          "color": "#f8e8d8"
+        },
+        {
+          "base": "b40-world-cat-lovers-day/03",
+          "width": 1080,
+          "height": 1920,
+          "widths": [
+            480,
+            960,
+            1080
+          ],
+          "color": "#f8e8d8"
+        }
+      ]
+    }
+  },
+  "b41-spring-festival": {
+    "key": "images-v2|215730-1794460751962,217213-1794460754664,316658-1794460758256",
+    "entry": {
+      "images": [
+        {
+          "base": "b41-spring-festival/01",
+          "width": 1600,
+          "height": 467,
+          "widths": [
+            480,
+            960,
+            1600
+          ],
+          "color": "#c80808"
+        },
+        {
+          "base": "b41-spring-festival/02",
+          "width": 1080,
+          "height": 1080,
+          "widths": [
+            480,
+            960,
+            1080
+          ],
+          "color": "#980808"
+        },
+        {
+          "base": "b41-spring-festival/03",
+          "width": 1080,
+          "height": 1920,
+          "widths": [
+            480,
+            960,
+            1080
+          ],
+          "color": "#b80808"
+        }
+      ]
+    }
+  },
+  "v01": {
+    "key": "videos-v1|6607767-1779926611108|1",
+    "entry": {
+      "cover": {
+        "base": "v01/poster",
+        "width": 480,
+        "height": 854,
+        "widths": [
+          480
+        ],
+        "color": "#281818"
+      },
+      "video": {
+        "poster": {
+          "base": "v01/poster",
+          "width": 480,
+          "height": 854,
+          "widths": [
+            480
+          ],
+          "color": "#281818"
+        },
+        "preview": {
+          "src": "v01/preview.mp4",
+          "width": 480,
+          "height": 854,
+          "bytes": 209756,
+          "hasAudio": false
+        },
+        "full": {
+          "src": "v01/full.mp4",
+          "width": 480,
+          "height": 854,
+          "duration": 15,
+          "bytes": 1546482,
+          "hasAudio": true
+        }
+      }
+    }
+  },
+  "v02-outdoor-no-power": {
+    "key": "videos-v1|6182605-1779870943519|1",
+    "entry": {
+      "cover": {
+        "base": "v02-outdoor-no-power/poster",
+        "width": 480,
+        "height": 854,
+        "widths": [
+          480
+        ],
+        "color": "#080808"
+      },
+      "video": {
+        "poster": {
+          "base": "v02-outdoor-no-power/poster",
+          "width": 480,
+          "height": 854,
+          "widths": [
+            480
+          ],
+          "color": "#080808"
+        },
+        "preview": {
+          "src": "v02-outdoor-no-power/preview.mp4",
+          "width": 480,
+          "height": 854,
+          "bytes": 402423,
+          "hasAudio": false
+        },
+        "full": {
+          "src": "v02-outdoor-no-power/full.mp4",
+          "width": 480,
+          "height": 854,
+          "duration": 14.5,
+          "bytes": 2681185,
+          "hasAudio": true
+        }
+      }
+    }
+  },
+  "v03-heater-ad-15s": {
+    "key": "videos-v1|18988261-1777941432613|1",
+    "entry": {
+      "cover": {
+        "base": "v03-heater-ad-15s/poster",
+        "width": 480,
+        "height": 867,
+        "widths": [
+          480
+        ],
+        "color": "#a8c8e8"
+      },
+      "video": {
+        "poster": {
+          "base": "v03-heater-ad-15s/poster",
+          "width": 480,
+          "height": 867,
+          "widths": [
+            480
+          ],
+          "color": "#a8c8e8"
+        },
+        "preview": {
+          "src": "v03-heater-ad-15s/preview.mp4",
+          "width": 480,
+          "height": 866,
+          "bytes": 56222,
+          "hasAudio": false
+        },
+        "full": {
+          "src": "v03-heater-ad-15s/full.mp4",
+          "width": 1080,
+          "height": 1950,
+          "duration": 15,
+          "bytes": 3509675,
+          "hasAudio": true
+        }
+      }
+    }
+  },
+  "b99-readme-test": {
+    "key": "images-v2|270665-1794460782821,358343-1794460783845,239132-1794460783042",
+    "entry": {
+      "images": [
+        {
+          "base": "b99-readme-test/01",
+          "width": 1600,
+          "height": 1000,
+          "widths": [
+            480,
+            960,
+            1600
+          ],
+          "color": "#080828"
+        },
+        {
+          "base": "b99-readme-test/02",
+          "width": 1600,
+          "height": 1600,
+          "widths": [
+            480,
+            960,
+            1600
+          ],
+          "color": "#080838"
+        },
+        {
+          "base": "b99-readme-test/03",
+          "width": 1080,
+          "height": 1920,
+          "widths": [
+            480,
+            960,
+            1080
+          ],
+          "color": "#281848"
+        }
+      ]
+    }
+  }
+}

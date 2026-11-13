@@ -1,0 +1,4 @@
+:HL["/visual-portfolio/_next/static/chunks/1bi-3adrpo1hf.css","style"]
+:HL["/visual-portfolio/_next/static/media/CabinetGrotesk_Variable.p.2jq64rnxrh74r.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+1:[["children",{"s":"__PAGE__","h":160}]]
+0:{"b":"oO9pVNWDWvgGMWPwjvaAS","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
