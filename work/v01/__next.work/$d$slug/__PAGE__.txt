@@ -1,0 +1,42 @@
+1:"$Sreact.fragment"
+2:"/visual-portfolio/_next/static/chunks/05q05hkgaezvr.js"
+3:"/visual-portfolio/_next/static/chunks/1-acf2cidbmuc.js"
+4:I[22016,["$2","$3"],""]
+5:I[64564,["$2"],"MotionToggle"]
+6:I[39756,["$2"],"default"]
+7:I[37457,["$2"],"default"]
+8:"$Sreact.view_transition"
+9:I[45196,["$2"],"RouteFocus"]
+12:I[73484,["$2","$3"],"BackLink"]
+13:I[95555,["$2","$3"],"Morph"]
+14:I[96410,["$2","$3"],"VideoPlayer"]
+1b:"ViewportBoundary"
+1c:I[97367,["$2"],"$1b"]
+1d:"MetadataBoundary"
+1e:I[97367,["$2"],"$1d"]
+1f:"$Sreact.suspense"
+:HL["/visual-portfolio/_next/static/chunks/1kc3yi_tivcwf.css","style"]
+b:X
+e:X
+e:C
+15:[["$","source",null,{"type":"image/avif","srcSet":"/visual-portfolio/media/v01/poster-480.avif 480w","sizes":"480px"}],["$","source",null,{"type":"image/webp","srcSet":"/visual-portfolio/media/v01/poster-480.webp 480w","sizes":"480px"}],["$","img",null,{"src":"/visual-portfolio/media/v01/poster-480.webp","alt":"","width":480,"height":854,"loading":"eager","fetchPriority":"high","decoding":"async","style":{"backgroundColor":"#281818"},"className":"block h-auto w-full h-full! object-contain"}]]
+11:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[[["$","$8","v01",{"enter":"page-in","exit":"page-out","default":"none","children":["$","div",null,{"className":"mx-auto w-full max-w-page px-4 lg:px-8 flex flex-col gap-8 pb-16 pt-4 lg:gap-12 lg:pt-8","children":[["$","header",null,{"className":"cascade flex flex-col items-start gap-2","children":[["$","$L12",null,{}],["$","h1",null,{"className":"sr-only","children":"（人物外景，标题待填）"}],false,["$","nav",null,{"aria-label":"切換作品","className":"grid grid-cols-2 gap-4 border-border mt-2 w-full border-b pb-4","children":[null,["$","$L4",null,{"replace":true,"href":"/work/v02-outdoor-no-power","className":"pressable group flex min-h-11 min-w-0 flex-col gap-1 py-2 col-start-2 text-right","children":[["$","span",null,{"className":"text-12 text-text-muted","children":"下一件"}],["$","span",null,{"className":"truncate text-14 group-hover:text-accent lg:text-16","children":"戶外沒電"}]]}]]}]]}],["$","div",null,{"className":"flex flex-col gap-6 lg:flex-row lg:gap-12","children":[["$","$L13",null,{"slug":"v01","copy":"detail","children":["$","$L14",null,{"data-morph":"v01","src":"/visual-portfolio/media/v01/full.mp4","duration":15,"hasAudio":true,"label":"（人物外景，标题待填），廣告影片，480×854","className":"relative mx-auto w-[min(100%,var(--w),(100dvh_-_5.5rem)_*_var(--ratio))] shrink-0 after:pointer-events-none after:absolute after:inset-0 after:border after:border-border lg:mx-0 lg:w-[min(100%,var(--w),max(24rem,100dvh_-_19.5rem)_*_var(--ratio))]","style":{"aspectRatio":"480 / 854","--w":"480px","--ratio":0.5620608899297423},"children":["$","picture",null,{"children":"$15"}]}]}],["$","ul",null,{"className":"cascade flex flex-wrap items-center gap-x-4 gap-y-2 text-14 text-text-muted lg:flex-col lg:items-start","children":[[["$","li","廣告影片",{"children":"廣告影片"}],["$","li","15 秒",{"children":"15 秒"}]],["$","li",null,{"children":["$","span",null,{"className":"inline-block bg-surface px-2 py-1 font-mono text-12 text-text-muted","children":[480,"×",854]}]}]]}]]}],["$","nav",null,{"aria-label":"切換作品（頁尾）","className":"grid grid-cols-2 gap-4 border-border border-t pt-6","children":[null,"$L16"]}],"$L17"]}]}]],["$L18"],"$L19"]}],"p":"$@1a","v":null,"s":"$b"}}]]
+f:[["children",{"s":{"n":"slug","t":"d","k":"v01","s":[]},"h":65632,"d":{"r":["$","$1","c",{"children":[null,["$","$L6",null,{"parallelRouterKey":"children","template":["$","$L7",null,{}]}]]}],"p":"$@10","v":"$e","s":"$b"},"c":"$Q11"}]]
+c:[["children",{"s":"work","h":131168,"d":{"r":["$","$1","c",{"children":[null,["$","$L6",null,{"parallelRouterKey":"children","template":["$","$L7",null,{}]}]]}],"p":"$@d","v":"$e","s":"$b"},"c":"$Qf"}]]
+0:{"t":{"t":{"s":"","h":131152,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/visual-portfolio/_next/static/chunks/1kc3yi_tivcwf.css","precedence":"next"}],["$","script","script-0",{"src":"/visual-portfolio/_next/static/chunks/05q05hkgaezvr.js","async":true}]],["$","html",null,{"lang":"zh-Hant","children":["$","body",null,{"className":"flex min-h-dvh flex-col","children":[["$","a",null,{"href":"#main","className":"pressable sr-only z-toast bg-accent text-14 font-medium text-accent-ink focus:not-sr-only focus:fixed focus:left-4 focus:top-2 focus:px-4 focus:py-3","children":"跳至主要內容"}],["$","header",null,{"className":"fixed inset-x-0 top-0 z-nav h-14 border-b border-border bg-bg","children":["$","div",null,{"className":"mx-auto w-full max-w-page px-4 lg:px-8 flex h-full items-center","children":[["$","$L4",null,{"href":"/","className":"pressable -ml-3 flex h-11 items-center px-3 font-heading text-16 font-semibold hover:text-accent","children":"作品集"}],["$","$L5",null,{}]]}]}],["$","main",null,{"id":"main","tabIndex":-1,"className":"flex-1 pt-14 outline-none","children":["$","$L6",null,{"parallelRouterKey":"children","template":["$","$L7",null,{}],"notFound":[["$","$8",null,{"enter":"page-in","exit":"page-out","default":"none","children":["$","div",null,{"className":"mx-auto w-full max-w-page px-4 lg:px-8 flex flex-col items-start gap-6 py-24","children":[["$","h1",null,{"className":"text-28 font-semibold tracking-tight lg:text-56","children":"找不到頁面"}],["$","$L4",null,{"href":"/","className":"pressable inline-flex h-11 items-center justify-center gap-2 px-6 text-14 font-medium disabled:cursor-not-allowed disabled:opacity-40 border border-border text-text not-disabled:hover:border-text","children":"返回作品"}]]}]}],[]]}]}],["$","footer",null,{"className":"border-t border-border","children":["$","div",null,{"className":"mx-auto w-full max-w-page px-4 lg:px-8 py-8","children":["$","p",null,{"className":"text-14 text-text-muted","children":["© ",2026," ","作品集"]}]}]}],["$","$L9",null,{}]]}]}]]}],"p":"$@a","v":null,"s":"$b"},"c":"$Qc"},"h":{"r":["$","$1","h",{"children":[null,["$","$L1c",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L1e",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$1f",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"（人物外景，标题待填）｜作品集"}],["$","meta","1",{"name":"description","content":"廣告影片 · 15 秒"}],["$","meta","2",{"property":"og:title","content":"（人物外景，标题待填）"}],["$","meta","3",{"property":"og:description","content":"廣告影片 · 15 秒"}],["$","meta","4",{"property":"og:url","content":"/work/v01"}],["$","meta","5",{"property":"og:site_name","content":"作品集"}],["$","meta","6",{"property":"og:locale","content":"zh_TW"}],["$","meta","7",{"property":"og:image","content":"http://localhost:3000/visual-portfolio/media/v01/og.jpg"}],["$","meta","8",{"property":"og:image:width","content":"1200"}],["$","meta","9",{"property":"og:image:height","content":"630"}],["$","meta","10",{"property":"og:image:alt","content":"（人物外景，标题待填）"}],["$","meta","11",{"property":"og:type","content":"article"}],["$","meta","12",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","13",{"name":"twitter:title","content":"（人物外景，标题待填）"}],["$","meta","14",{"name":"twitter:description","content":"廣告影片 · 15 秒"}],["$","meta","15",{"name":"twitter:image","content":"http://localhost:3000/visual-portfolio/media/v01/og.jpg"}],["$","meta","16",{"name":"twitter:image:alt","content":"（人物外景，标题待填）"}],["$","meta","17",{"name":"twitter:image:width","content":"1200"}],["$","meta","18",{"name":"twitter:image:height","content":"630"}]]}]}],null]}],null]}],"p":"$@20","v":null,"s":"$b"}},"a":"$@21","u":"$@22","b":"UDICNmW1dpKKX5_GQ4_I9"}
+23:I[70285,["$2","$3"],"ArrowKeys"]
+24:I[97367,["$2"],"OutletBoundary"]
+16:["$","$L4",null,{"replace":true,"href":"/work/v02-outdoor-no-power","className":"pressable group flex min-h-11 min-w-0 flex-col gap-1 py-2 col-start-2 text-right","children":[["$","span",null,{"className":"text-12 text-text-muted","children":"下一件"}],["$","span",null,{"className":"truncate text-14 group-hover:text-accent lg:text-16","children":"戶外沒電"}]]}]
+17:["$","$L23",null,{"prev":null,"next":{"slug":"v02-outdoor-no-power","title":"戶外沒電"}}]
+18:["$","script","script-0",{"src":"/visual-portfolio/_next/static/chunks/1-acf2cidbmuc.js","async":true}]
+19:["$","$L24",null,{"children":["$","$1f",null,{"name":"Next.MetadataOutlet","children":"$@25"}]}]
+b:300
+25:null
+22:true
+b:C
+21:0
+10:"$undefined"
+d:"$undefined"
+a:"$undefined"
+20:"$undefined"
+1a:"$undefined"
